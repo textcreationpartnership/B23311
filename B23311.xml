@@ -1,0 +1,931 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of Waltham-Abby in Essex, founded by King Harold by Thomas Fuller.</title>
+            <author>Fuller, Thomas, 1608-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23311</idno>
+            <idno type="STC">Wing F2442</idno>
+            <idno type="EEBO-CITATION">09822471</idno>
+            <idno type="OCLC">ocm 09822471</idno>
+            <idno type="VID">204515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1357:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of Waltham-Abby in Essex, founded by King Harold by Thomas Fuller.</title>
+                  <author>Fuller, Thomas, 1608-1661.</author>
+               </titleStmt>
+               <extent>22, [1] leaf of plates : coats of arms.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bristol Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abbeys --  England.</term>
+               <term>Waltham Abbey (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204515:1"/>
+            <p>THE HISTORY OF Waltham-Abby in Eſſex, Founded by KING HAROLD.</p>
+            <q>
+               <l>Patria est ubicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> est bene</l>
+               <l>Bene vixit, qui bene latuit.</l>
+            </q>
+            <p>By THOMAS FULLER, the CURATE thereof.</p>
+            <figure>
+               <head>SIC OMNI TEMPORE VERNO</head>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, M. DC. LV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204515:2" rendition="simple:additions"/>
+            <pb facs="tcp:204515:2"/>
+            <head>To the Right Honourable, JAMES HAY, EARL of <hi>CARLILE,</hi> VISCOUNT <hi>Doncaſter,</hi> BARON of <hi>Sauley</hi> and <hi>Waltham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Have formerly in this <hi>Hiſtory</hi> preſumed to trouble your <hi>Honour,</hi> and now adventure the ſecond time. Indeed this Treatiſe con<g ref="char:EOLhyphen"/>taineth the deſcription of your large <hi>De<g ref="char:EOLhyphen"/>meſnes,</hi> and larger <hi>Royalty</hi> and <hi>Command.</hi> Should I therefore preſent it to any other, ſave your ſelf, it would be held as a <hi>STRAY</hi> indeed, (wandring out of the right <hi>way</hi> it ſhould go in) and ſo, (without any thanks to me) would <hi>fall</hi> to your <hi>Lordſhip,</hi> as due unto <hi>you</hi> by the <hi>Cuſtome of your Manor.</hi>
+            </p>
+            <closer>
+               <signed>Your Honours moſt obliged Servant and Chaplain. THOMAS FULLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204515:3"/>
+            <pb n="5" facs="tcp:204515:3"/>
+            <head>THE HISTORY OF Waltham-Abby.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Rovidence, by the hand of my worthy friends, <note place="margin">The Authors deſign.</note> having planted me for the preſent at <hi>Waltham-Abby,</hi> I conceive, that in our general work of <hi>Abbies,</hi> I owe ſome particular deſcription to that place of my abode. Hoping my en<g ref="char:EOLhyphen"/>deavours herein may prove exemplary to others (who dwell in the ſight of remarkable Monaſteries) to do the like, and reſcue the obſervables of their habitations, from the teeth of time and oblivion.</p>
+            <p>
+               <hi>Waltham</hi> is ſo called from the Saxon <hi>Ham,</hi> 
+               <note place="margin">
+                  <hi>Waltham</hi> why ſo named.</note> which is a <hi>Town</hi> (whence the Diminutive <hi>Ham<g ref="char:EOLhyphen"/>let)</hi> and <hi>Weald,</hi> or <hi>Wealt,</hi> that is, <hi>woody</hi> (whence the <hi>Weald</hi> of <hi>Kent)</hi> it being Anci<g ref="char:EOLhyphen"/>ently over-grown with trees and timber. Thus <hi>Kiriath-jearim,</hi> or the <hi>City of the woods,</hi> in <hi>Paleſtine; Dendros,</hi> an Iſland in <hi>Peloponneſus Sylviacum,</hi> an An<g ref="char:EOLhyphen"/>cient City in <hi>Belgia,</hi> got their names from the like woody ſcituation. Some will have it called <hi>Waltham,</hi> quaſi <hi>Wealthie-Ham:</hi> I wiſh they could make their words good, in reſpect of the perſons living therein, though in regard of the ſoyl it ſelf, indeed it is rich and plentiful.</p>
+            <p>The <hi>Town</hi> is ſeated on the Eaſt ſide of the River <hi>Ley,</hi> which not onely <note place="margin">The ſituation thereof.</note> parteth <hi>Hartford</hi>-ſhire from <hi>Eſſex,</hi> but alſo ſeven times parteth from its ſelf, whoſe ſeptemfluous ſtream in coming to the Town, is croſſed again with ſo many bridges. On the one ſide, the Town it ſelf hath large and fruitful Medows (whoſe intrinſick value is much raiſed by the vicinity of <hi>London)</hi> the graſs whereof when firſt gotten an head, is ſo ſweet and luſhious to Cat<g ref="char:EOLhyphen"/>tle, that they diet them at the firſt entring therein to half an hour a day, leſt otherwiſe they over-eat themſelves, which ſome Kine yearlie do, and quick<g ref="char:EOLhyphen"/>ly die for it, notwithſtanding all their <hi>Keepers</hi> care to the contrary. On the other ſide a ſpacious Foreſt ſpreads it ſelf, where, fourteen years ſince, one might have ſeen whole Herds of <hi>Red</hi> and <hi>Fallow Deer.</hi> But theſe late licenti<g ref="char:EOLhyphen"/>ous years have been ſuch a <hi>Nimrod,</hi> ſuch an <hi>Hunter,</hi> that all at this preſent are deſtroyed, though I could wiſh this were the worſt effect which our wo<g ref="char:EOLhyphen"/>ful Wars have produced.</p>
+            <pb n="6" facs="tcp:204515:4"/>
+            <p>The <hi>aire</hi> of the Town is condemned by many, for over-moiſt and Aguiſh, <note place="margin">Excuſed from bad air.</note> cauſed by the depreſſed ſcituation thereof. In confutation of which cenſure, we produce the many aged perſons in our <hi>Town,</hi> (above threeſcore and ten, ſince my coming hither, above threeſcore and ten years of age) ſo that it ſeemes, we are ſufficiently healthful, if ſufficiently thankful for the ſame. Sure I am, what is wanting in good <hi>air</hi> in the <hi>Town,</hi> is ſupplied in the <hi>Pariſh,</hi> wherein as many pleaſant hils and proſpects are, as any place in <hi>En<g ref="char:EOLhyphen"/>gland</hi> doth afford.</p>
+            <p>
+               <hi>Tovy,</hi> a man of great wealth and authority, as being the Kings <hi>Staller,</hi> 
+               <note place="margin">Firſt Found<g ref="char:EOLhyphen"/>ed by <hi>Tovy.</hi>
+               </note> (that is, <hi>Standard-Bearer)</hi> firſt Founded this Town, for the great delight which he took in the <hi>game,</hi> the place having plenty of <hi>Deer.</hi> He planted on<g ref="char:EOLhyphen"/>ely threeſcore and ſix in-dwellers therein.</p>
+            <p>
+               <hi>Athelſtan,</hi> his ſon, proved a Prodigal, and quickly ſpent all his Fathers <note place="margin">Falls back to the Crown.</note> goods and great eſtate, ſo that by ſome tranſactions the place returned to the Crown.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Dom. </seg>1060</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Regis. </seg>Edw. Con∣feſſor. v 18.</label> 
+               <hi>Edward</hi> the <hi>Confeſſour,</hi> beſtowed <hi>Waltham,</hi> with the Lands thereabouts, <note place="margin">Beſtowed on Earl <hi>Harold</hi>
+               </note> on <hi>Harold</hi> his Brother-in-law, who preſently built and endowed therein a <hi>Monaſtery,</hi> whereof nothing at this day is extant, ſave the <hi>Weſt end,</hi> or body of the Church.</p>
+            <p>A ſtructure of <hi>Gothiſh-building,</hi> rather large then neate, firm then fair. <note place="margin">The model of the modern Church.</note> Very dark (the deſign of thoſe dayes to raiſe devotion) ſave that it was help<g ref="char:EOLhyphen"/>ed again with artificial lights; and is obſerved by Artiſts to ſtand the moſt exactly <hi>Eaſt</hi> and <hi>Weſt</hi> of any in <hi>England.</hi> The great pillars thereof are wrea<g ref="char:EOLhyphen"/>thed with indentings, which vacuities, if formerly filled up with Braſſe (as ſome confidently report) added much to the beauty of the building. But, it matters not ſo much their taking away the Braſſe from the Pillars, had they but left the Lead on the Roof, which is but meanly Tiled at this day. In a word, the beſt commendation of the Church is, that on Lords-dayes generally it is filled with a <hi>great</hi> and <hi>attentive Congregation.</hi>
+            </p>
+            <p>To the <hi>South</hi>-ſide of the Church is joyned a <hi>Chappel,</hi> formerly <hi>our Ladies,</hi> 
+               <note place="margin">Mortality tri<g ref="char:EOLhyphen"/>umphant.</note> now a <hi>School-houſe,</hi> and under it an arched <hi>Charnel-houſe,</hi> the faireſt that ever I ſaw. Here, a pious fancy could make a feaſt to its ſelf on thoſe <hi>dry bones,</hi> with the meditation of mortality: where it is hard, yea, impoſſible to diſ<g ref="char:EOLhyphen"/>cern the Sculls of a rich, from a poor; wiſe, from a ſimple; noble, from a mean perſon. Thus all counters are alike when put up together in the box, or bag; though, in caſting of account, of far different valuation.</p>
+            <p>King <hi>Harold</hi> Dedicated the <hi>Monaſtery</hi> to the honour of an <hi>Holy Croſs,</hi> 
+               <note place="margin">A Dean and Canons foun<g ref="char:EOLhyphen"/>ded at <hi>Wal<g ref="char:EOLhyphen"/>tham.</hi>
+               </note> found far Weſt-ward, and brought hither (as they write) by miracle; whence the Town hath the addition of <hi>Waltham-Holy-Croſs;</hi> but the Church we finde in after ages alſo Dedicated to S<hi rend="sup">t</hi> 
+               <hi>Laurence.</hi> His foundation was for a <hi>Dean,</hi> and eleven <hi>Secular Black Canons.</hi> Let none challenge the words of impropriety, ſeeing a Dean, in Latin, <hi>Decanus,</hi> hath his name from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ten,</hi> over which number he is properly to be prepoſed. For, nothing more common, then to wean words from their infant and original ſenſe, and by cuſtome to extend them to a larger ſignification, as <hi>Dean</hi> afterwards plainly denoted a ſuperiour over others, whether fewer then ten, as the ſix Preben<g ref="char:EOLhyphen"/>daries of <hi>Rocheſter;</hi> or moe, as the three and thirty of <hi>Salisbury.</hi> The Dean and eleven Canons were plentifully provided for, each Canon having a <hi>Manor,</hi> and the <hi>Dean</hi> ſix for his maintenance.</p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Dom. </seg>1062</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Regis </seg>Edw. Con∣feſſor. v 20.</label> For in the Charter of Confirmation made by King <hi>Edward</hi> the <hi>Confeſſor,</hi> 
+               <note place="margin">Seventeen Manors con<g ref="char:EOLhyphen"/>firm'd to them by the Confeſſor.</note> beſides <hi>North-land</hi> in <hi>Waltham</hi> (now called, as I take it, <hi>North-field)</hi> where<g ref="char:EOLhyphen"/>with the Monaſtery was firſt endowed, theſe following <hi>Lordſhops,</hi> with all their appurtenances, are reckoned up.</p>
+            <list>
+               <item>1. Paſſefield.</item>
+               <item>2. Walde.</item>
+               <item>3. Upminſter.</item>
+               <item>4. Walthfare.</item>
+               <item>5. Suppedene.</item>
+               <item>6. Alwertowne.</item>
+               <item>7. Wodeford.</item>
+               <item>8. Lambehide.</item>
+               <item>9. Neſingan.</item>
+               <item>10. Brickindon.</item>
+               <item>11. Melnhoo.</item>
+               <item>12. Alichſea.</item>
+               <item>13. Wormeley.</item>
+               <item>14. Nichelſwells.</item>
+               <item>15. Hitchche.</item>
+               <item>16. Lukendon.</item>
+               <item>17. Weſt-Wealtham.</item>
+            </list>
+            <pb n="7" facs="tcp:204515:4"/>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Dom. </seg>1066</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Regis </seg>Harel. 1.</label> All theſe the King granted unto them <hi>cum Sacha &amp; Socha, Tol and Team,</hi> &amp;c. free from all gelts and payments, in a moſt full and ample manner; Wit<g ref="char:EOLhyphen"/>neſs himſelf, <hi>Edith</hi> his Queen, <hi>Stigand Archiepiſcopus Dorobornenſis,</hi> Count <hi>Harold,</hi> and many other Biſhops and Lords ſubſcribing the ſame <hi>Charter.</hi>
+            </p>
+            <p> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Dom. </seg>1067</label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anno Regis </seg>Will. Conq. 1.</label> Afterward <hi>Harold</hi> uſurpeth the <hi>Crown,</hi> but enjoyed it not a full year, kill'd <note place="margin">
+                  <hi>Harold</hi> Crow<g ref="char:EOLhyphen"/>ned, killed &amp; buried at <hi>Wal<g ref="char:EOLhyphen"/>tham.</hi>
+               </note> in <hi>Battle-fight,</hi> by <hi>King William</hi> the <hi>Conqueror.</hi> Where either of their ſwords (if victorious) might have done the deed, though otherwiſe both their titles twiſted together, could not make half a good claim to the Crown. <hi>Githa,</hi> Mother of <hi>Harold,</hi> and two religious men of this Abby, <hi>Oſegod</hi> and <hi>Ailric,</hi> with their prayers and tears, hardly prevailed with the <hi>Conquerour</hi> (at firſt denying him burial, whoſe ambition had cauſed the death of ſo many) to have <hi>Harolds</hi> Corps (with his two Brethren, <hi>Girth</hi> and <hi>Leofwin,</hi> loſing their lives in the ſame battle) to be entombed in <hi>Waltham Church,</hi> of his foundation. He was buried, where now the Earl of <hi>Carlile</hi> his leaden Fountain in his Garden, then probably the end of the Quire, or rather ſome Eaſtern Chap<g ref="char:EOLhyphen"/>pel beyond it. His Tomb of plain, but rich gray Marble, with what ſeem<g ref="char:EOLhyphen"/>eth a <hi>Croſs-Floree</hi> (but much deſcanted on with art) upon the ſame, ſupport<g ref="char:EOLhyphen"/>ed with <hi>Pillarets,</hi> one <hi>Pedeſtal,</hi> whereof I have in my houſe. As for his re<g ref="char:EOLhyphen"/>ported Epitaph, I purpoſely omit it, not ſo much becauſe barbarous (ſcarce any better in that Age) but becauſe not atteſted, to my apprehenſion, with ſufficient Authority.</p>
+            <p>A Picture of King <hi>Harold</hi> in glaſs was lately to be ſeen in the <hi>North</hi>-win<g ref="char:EOLhyphen"/>dow <note place="margin">Deforming Reformers.</note> of the Church, till ten years ſince ſome barbarous hand beat it down under the notion of <hi>Superſtition.</hi> Surely had ſuch ignorant perſons been im<g ref="char:EOLhyphen"/>ployed in the dayes of <hi>Hezekiah,</hi> to purge the <hi>Temple</hi> from the former Ido<g ref="char:EOLhyphen"/>latry; under the pretence thereof, they would have rended off, the <hi>Lilie-work</hi> from the Pillars; and the <hi>Lions, Oxen,</hi> and <hi>Cherubims</hi> from the <hi>Baſes</hi> of <hi>Braſs.</hi> However, there is ſtill a place called <hi>Harolds-Park</hi> in our Pariſh, by him ſo denominated. Let not therefore the <hi>village</hi> of <hi>Harold</hi> on the <hi>North</hi> ſide of <hi>Ouſe</hi> neer <hi>Bedford</hi> (properly <hi>Harewood,</hi> or <hi>Harelſwood,</hi> on vulgar ground<g ref="char:EOLhyphen"/>leſs tradition) conteſt with <hi>Waltham</hi> for this Kings interment.</p>
+            <div type="part">
+               <head>The Re-foundation of <hi>WALTHAM-ABBY</hi> by <hi>HENRY</hi> the Second.</head>
+               <p>ONe will eaſily believe, that at the death of King <hi>Harold, Waltham-Abby,</hi> 
+                  <note place="margin">
+                     <hi>Waltham</hi> Ca<g ref="char:EOLhyphen"/>nons in a ſad condition.</note> Founded by him, was in a ſwoon, and the Canons therein much diſheartned. However, they had one help, which was this; that, <hi>Edward</hi> the <hi>Confeſſour</hi> was the confirmer of their Foundation, whoſe memory was not onely freſh and fair in all mens mindes (bearing a vene<g ref="char:EOLhyphen"/>ration to his ſuppoſed ſanctity) but alſo King <hi>William</hi> the Conquerour, had the beſt of his bad titles by bequeſt of the <hi>Crown</hi> from this Confeſſour. So that in ſome ſenſe <hi>Waltham-Abby</hi> might humbly crave kindred of King <hi>William,</hi> both deriving their beſt being from one and the ſame perſon. <note place="margin">The induſtry of <hi>Rob. Fuller</hi> laſt Abbot of <hi>Waltham.</hi>
+                  </note>
+               </p>
+               <p>Know Reader, that what ever hereafter I alledg touching the Lands and Li<g ref="char:EOLhyphen"/>berties of <hi>Waltham</hi> (if not otherwiſe atteſted by ſome Author in the margin) is by me faithfully tranſcribed out of <hi>Waltham Leidger-Book,</hi> now in the poſ<g ref="char:EOLhyphen"/>ſeſſion of the Right Honourable, <hi>JAMES</hi> Earl of <hi>Carlile.</hi> This Book was collected by <hi>Robert Fuller,</hi> the laſt Abbot of <hi>Waltham;</hi> who, though he could not keep his Abby from diſſolution, did preſerve the Antiquities there<g ref="char:EOLhyphen"/>of from oblivion. The Book (as appears by many inſcriptions in the initial Text-letters) was made by himſelf, having as happy an hand in fair and faſt writing, as ſome of his Sir-name ſince have been defective therein.</p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1102</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 1 3.</label> 
+                  <pb n="8" facs="tcp:204515:5"/>Not long after the Conqueſt, <hi>Waltham-Abby</hi> found good Benefactors, and <note place="margin">Queen <hi>Maud</hi> gives <hi>Waltham</hi> Monks a Mill.</note> conſiderable additions to their maintenance. For, <hi>Maud,</hi> the firſt Queen to King <hi>Henry</hi> the firſt, beſtowed on them the Mill at <hi>Waltham,</hi> which ſhe had by exchange for <hi>Trinity-Church</hi> in <hi>London,</hi> which I take to be part of the <hi>Trintly-Priory,</hi> now called the <hi>Dukes-place.</hi>
+               </p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1130</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 1. 31.</label> 
+                  <hi>Adeliſia,</hi> ſecond wife to King <hi>Henry</hi> the firſt, being poſſeſſed of <hi>Waltham</hi> as part of her Revenue, gave all the <hi>Tythes</hi> thereof, as well of her <hi>Demeſnes,</hi> 
+                  <note place="margin">Queen <hi>Adeli<g ref="char:EOLhyphen"/>ſia</hi> the Tythes</note> as all Tenants therein, to the Canons of <hi>Waltham:</hi> Mean time how poorly was the <hi>Priest</hi> of the place provided for? Yea, a <hi>glutton Monaſtery in former ages, makes an hungrie Miniſtrie in our dayes.</hi> An <hi>Abby</hi> and a <hi>Parſonage un<g ref="char:EOLhyphen"/>impropriate</hi> in the ſame place, are as inconſiſtent together, as <hi>good woods</hi> and an <hi>Iron Mill.</hi> Had not <hi>Waltham Church</hi> lately met with a <hi>Noble Founder,</hi> the <hi>Miniſter</hi> thereof muſt have kept more <hi>faſting-dayes,</hi> then ever were put in the <hi>Roman Calender.</hi>
+               </p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1135</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Steph. 1:</label> King <hi>Stephen,</hi> though he came a wrong way to the Crown, yet did all <note place="margin">King <hi>Steven</hi> his bounty.</note> right to the <hi>Monaſtery</hi> of <hi>Waltham</hi> (as who generally ſought the good will of the Clergie to ſtrengthen himſelf) and confirmed all their Lands, profits, and priviledges unto them.</p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1156</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 2 2.</label> King <hi>Henry</hi> the ſecond utterly diſſolved the foundation of <hi>Dean</hi> and eleven <note place="margin">King <hi>Henry</hi> diſſolves the Dean and Canons at <hi>Waltham</hi>
+                  </note> Canons at <hi>Waltham.</hi> The debauchedneſs of their lives is rendred in his Char<g ref="char:EOLhyphen"/>ter as the occaſion thereof, <hi>Cum in ea Canonici Clerici<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> minùs religiosè &amp; aequaliter vixiſſent, ita quòd infamia converſationis illorum multos ſcandaliſaſſet.</hi> Whether theſe were really, or onely reputed vitious, God knows, ſeeing all thoſe muſt be guilty whom power is pleaſed to pronounce ſo. Sure it is, King <hi>Henry</hi> outed this <hi>Dean</hi> and <hi>Canons,</hi> and placed an <hi>Abbot</hi> and <hi>Regular Au<g ref="char:EOLhyphen"/>guſtinians</hi> in their room, encreaſing their number to twenty four. And be<g ref="char:EOLhyphen"/>cauſe (to uſe the Kings own words) it was fit that <hi>Chriſt his Spouſe ſhould have a new dowry,</hi> he not onely confirmed to this Monaſtery the <hi>primitive patrimony,</hi> mentioned in the <hi>Confeſſors Charter,</hi> cum peciis terrae, <hi>With many pieces of land,</hi> and tenements, which their <hi>Benefactors</hi> ſince beſtowed upon them; but alſo conferred the rich Manors of <hi>Sewardſtone,</hi> and <hi>Eppings</hi> on this Monaſtery.</p>
+               <p>The whole <hi>Charter</hi> of King <hi>Henry</hi> is too long to tranſcribe, but ſome paſ<g ref="char:EOLhyphen"/>ſages <note place="margin">Auguſtinians ſubſtituted in their room.</note> therein muſt not be omitted. Firſt, the King had the conſent of Pope <hi>Alexander,</hi> for the ſuppreſſion of theſe Canons; the rather moved thereunto, <hi>quia praedictis Canonicis ſufficienter proviſum fuit, becauſe the aforeſaid expelled Canons had ſufficient proviſion made for them.</hi> For, grant them never ſo <hi>ſcanda<g ref="char:EOLhyphen"/>lous,</hi> this was to add <hi>ſcandal</hi> to <hi>ſcandal,</hi> to thruſt them out of houſe and home, without any means or maintenance. Secondly, this <hi>Charter</hi> preſents us with the ancient liberties of <hi>Waltham-Church,</hi> that, <hi>Semper fuit Regalis Capella ex primitiva ſui fundatione, nulli Archiepiſcopo vel Epiſcopo, ſed tantùm Eccleſiae Ro<g ref="char:EOLhyphen"/>manae &amp; Regiae diſpoſitioni ſubjecta.</hi> And, though ſince Reformation, the Church hath been ſubjected to the Arch-Biſhops juriſdiction (as ſucceeding to the Royal power) and ſometimes (with grumbling and reluctancy) to the Epiſcopal power, yet it never as yet owned an Arch-Deacon, or appeared at his <hi>Viſitation.</hi>
+               </p>
+               <p>The metioning of the conſent of Pope <hi>Alexander</hi> to the ſuppreſſion of <note place="margin">
+                     <hi>Rome</hi>-land in <hi>Waltham.</hi>
+                  </note> 
+                  <hi>Waltham Dean</hi> and <hi>Canons,</hi> and ſubſtituting <hi>Auguſtinians</hi> in their room, min<g ref="char:EOLhyphen"/>deth me of a ſpacious place in this Town, at the entrance of the <hi>Abby,</hi> built about with houſes, called <hi>Rome-land,</hi> as <hi>(Peter-pence</hi> were termed <hi>Rome-ſcot)</hi> at this day. It is generally believed, that the rents thereof peculiarly be<g ref="char:EOLhyphen"/>longed to the Church of <hi>Rome.</hi> Thus the Pope would not be ſo bad a carver, as to cut all away to others, and reſerve no corner to himſelf.</p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1189</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Ric. 1 1.</label> King <hi>Richard</hi> the firſt (though generally not too loving to the Clergie) <note place="margin">
+                     <hi>Fitz-Aucher</hi> ſetled at <hi>Copt-Hall.</hi>
+                  </note> amply confirmed his Fathers Foundation, and gave Lands to <hi>Richard Fitz-Aucher</hi> in this Pariſh, to hold them in Fee, and hereditarily of the Church of <hi>Waltham-Holy-Croſs.</hi> This <hi>Fitz-Aucher</hi> fixed himſelf at <hi>Copt-Hall,</hi> a ſtate<g ref="char:EOLhyphen"/>ly houſe in the Pariſh. Whether ſo called contractedly, <hi>quaſi Cobbing-Hall,</hi>
+                  <pb n="9" facs="tcp:204515:5"/> from <hi>Cobbing,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1226</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 3 10.</label> a rivolet running not far off, or from two ancient and eſſential <hi>Turrets</hi> of that houſe, which are coped and covered with Lead: or from (in my minde moſt probable) an high and ſharp Hill (thus <hi>Copeland</hi> ſo cal<g ref="char:EOLhyphen"/>led in <hi>Cumberland)</hi> whereon the houſe is founded.</p>
+               <p>In or about this Kings Reign, <hi>Hugh Nevil,</hi> with the conſent of <hi>Jone</hi> his <note place="margin">
+                     <hi>Hugh Nevil</hi> a bountiful benefactor.</note> wife, and <hi>John</hi> his ſon, beſtowed the Manor of <hi>Thorndon</hi> on the Monaſtery of <hi>Waltham,</hi> of whom largely before.</p>
+               <p>King <hi>Henry</hi> the third, to ſpare Court-keeping, came often and lay long at <hi>Abbies;</hi> ſo that <hi>Waltham</hi> (the neareſt mitred Abby to <hi>London)</hi> had much of his company. Being a <hi>Religious</hi> Prince, great were his deſires, but with<g ref="char:EOLhyphen"/>all <hi>neceſsitous,</hi> ſmall his deeds in endowing Churches. However, what he wanted in giving himſelf, he ſupplied in confirming the gifts of others. And finding it the cheapeſt way of benefaction, to give liberties then lands, he beſtowed on <hi>Waltham</hi> a weekly <hi>Market</hi> and a <hi>Faire</hi> (ſo called <hi>à feriando,</hi> from peoples <hi>playing</hi> there) to laſt ſeven dayes; which now is divided into two, but of ſhorter continuance, the one on the third day of <hi>May,</hi> the <hi>In<g ref="char:EOLhyphen"/>vention,</hi> the other on the fourteenth of <hi>September,</hi> the <hi>Exaltation of the Croſs.</hi>
+               </p>
+               <p>We now have a <hi>Market</hi> on <hi>Tueſday,</hi> but cannot boaſt of much trading <note place="margin">
+                     <hi>Waltham</hi> Mar<g ref="char:EOLhyphen"/>ket.</note> therein. Indeed there is plenty of Fleſh, but little Corn brought thither: and Bread is the <hi>ſtaff,</hi> as of a man, ſo of a <hi>Market.</hi> Nor let us impute the thinneſs of Chapmen in <hi>Summer</hi> to <hi>Husbandmens</hi> having no leaſure, as buſied in tillage, Hay, or harveſt: or in Winter to their <hi>having no pleaſure</hi> to re<g ref="char:EOLhyphen"/>pair thither in ſo deep and dirty wayes, ſeeing the plain truth is, no <hi>under<g ref="char:EOLhyphen"/>wood</hi> can thrive neer the droppings of ſo great an <hi>Oke,</hi> the vicinity of <hi>London.</hi> The <hi>golden Market</hi> in <hi>Leaden-Hall,</hi> makes <hi>leaden Markets</hi> in all the Townes thereabouts.</p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1245</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 3 30.</label> In the firſt year that <hi>Simon</hi> was made <hi>Abbot</hi> (which by exacteſt propor<g ref="char:EOLhyphen"/>tion <note place="margin">Broils be<g ref="char:EOLhyphen"/>twixt the Ab<g ref="char:EOLhyphen"/>bot and the Townſmen about Com<g ref="char:EOLhyphen"/>mons.</note> we collect to be about the thirtieth year of King <hi>Henry</hi> the third) the <note n="*" place="margin">
+                     <hi>M. S.</hi> of <hi>Ed<g ref="char:EOLhyphen"/>ward Stacy,</hi> written (as appears by character) 140 years ſince, <hi>fol.</hi> 42.</note> men of <hi>Waltham</hi> came into the Marſh, which the <hi>Abbot</hi> and his <hi>Covent</hi> for<g ref="char:EOLhyphen"/>merly enjoyed, as ſeveral to themſelves, killed four Mares, worth fourty ſhillings ſterling at leaſt, and drove away all the reſt. The <hi>Abbot</hi> was poli<g ref="char:EOLhyphen"/>tickly pleaſed, for the preſent not to take notice thereof. The next year ſome men of <hi>Waltham</hi> went to the <hi>Abbot,</hi> the <hi>Thurſday</hi> before <hi>Eaſter,</hi> in the name of the whole Village, and demanded of him to remove his <hi>Mares</hi> and <hi>Colts</hi> out of the <hi>Marſh.</hi> This the Abbot refuſed to do, adding withal, that if his Bailiffs had placed his Cattle otherwhere then they ought, they might do well to have it amended, yet ſo, as to defer the matter till <hi>Tueſday</hi> after <hi>Eaſter.</hi>
+               </p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1246</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 3 31.</label> On that <hi>Tueſday, Richard,</hi> Brother to the King, Duke of <hi>Cornwall,</hi> came <note place="margin">The ſturdi<g ref="char:EOLhyphen"/>neſs of the Townſmen.</note> to <hi>Waltham,</hi> at what time both the men and women of the <hi>Town</hi> repaired to the gate of the <hi>Abbey,</hi> to receive the Abbots final anſwer. He told them that he could not ſpeak with them for the preſent, as providing himſelf for a long journey into <hi>Lincoln</hi>-ſhire, there to viſit the <hi>Juſtices itinerant;</hi> but by his <hi>Prior</hi> and other <hi>Canons,</hi> he deſired them to be patient till his return, when he would mend what was to be mended. Not ſatisfied therewith, and neither reſpecting the <hi>ſpiritual holineſs</hi> of the <hi>Abbot,</hi> nor <hi>Temporal greatneſs</hi> of the <hi>Duke,</hi> railed at and reviled him. Then into the paſture they go, and, in driving out the Abbots <hi>Mares</hi> and <hi>Colts,</hi> drowned three worth twenty ſhillings, ſpoil<g ref="char:EOLhyphen"/>ed ten moe, to the value of ten marks, and beat their keepers who reſiſted them, even to the ſhedding of bloud.</p>
+               <p>But, after the <hi>Abbot</hi> returned from <hi>Lincoln</hi>-ſhire, the Townſmen, fear<g ref="char:EOLhyphen"/>ing <note place="margin">The moſt guiltie firſt accuſe.</note> they ſhould be trounced for their <hi>riot,</hi> deſired a <hi>Love-day,</hi> ſubmitted themſelves unto him, and profered to pay him damage. But next day, when the performance of theſe promiſes were expected, away went the <hi>Wal<g ref="char:EOLhyphen"/>tham-men,</hi> with their <hi>wives</hi> and <hi>children,</hi> to the King to <hi>London,</hi> inraging him as much as in them lay, againſt the Abbot, accuſing him that he would
+<pb n="10" facs="tcp:204515:6"/> diſinherit them of their right, <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1246</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 3 31.</label> bring up new cuſtomes, take away their <hi>Pa<g ref="char:EOLhyphen"/>ſtures,</hi> and (to uſe their own words) eat them up to the bones; and that he had wounded and abuſed ſome of them, who ſtood defending their own rights. Which falſe report was believed of many, to the great diſgrace of the <hi>Covent</hi> of <hi>Waltham.</hi>
+               </p>
+               <p>The <hi>Abbot</hi> would not put up ſo great a wrong, but, having Epiſcopal <note place="margin">The Abbot comes off conqueror.</note> power in himſelf, proceeded to the Excommunication of the Rebellious <hi>Wal<g ref="char:EOLhyphen"/>thamites.</hi> But the Townſmen went another way to work, namely, to defend their right by the <hi>Common Laws</hi> of the Realm. Whereupon <hi>Stephen Fitz-Bennet, Simon</hi> of the <hi>Wood, William Theyden,</hi> and <hi>Ralph</hi> of the <hi>Bridge,</hi> in the name of all the reſt, implead the <hi>Abbot</hi> for appropriating their <hi>Commons</hi> to himſelf. But in fine (after many croſs pleadings here too long to relate) the <hi>Abbot</hi> ſo acquitted himſelf, that he made both his own <hi>right</hi> and the Townſmens <hi>riot</hi> to appear: who at laſt at the <hi>Kings-Bench</hi> were glad to confeſs that they had done evil, and were amerced twenty Marks to the <hi>Abbot,</hi> which he not onely remitted unto them, but alſo on their ſubmiſſion aſſoiled them from the <hi>Excommunication.</hi>
+               </p>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Dom. </seg>1248</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anno Regis </seg>Hen. 3 33.</label> The brawls betwixt the <hi>Abbot</hi> and <hi>Townſmen</hi> of <hi>Waltham</hi> were no ſooner <note place="margin">The ſute be<g ref="char:EOLhyphen"/>twixt the Ab<g ref="char:EOLhyphen"/>bot of <hi>Wal<g ref="char:EOLhyphen"/>tham</hi> and the Lord of <hi>Cheſt<g ref="char:EOLhyphen"/>hunt.</hi>
+                  </note> ended, but far fiercer began betwixt the ſaid <hi>Abbot</hi> and the Lord of <hi>Cheſthunt,</hi> on the like occaſion. This <hi>Cheſthunt</hi> is a large Pariſh in <hi>Hertford</hi>-ſhire, con<g ref="char:EOLhyphen"/>fining on the <hi>West</hi> of <hi>Waltham,</hi> ſo called ſaith <note n="*" place="margin">In his ſhort Survey of <hi>Hertford</hi>-ſhire.</note> 
+                  <hi>Norden, quaſi Caſtanetum,</hi> of <hi>Cheſtnut-trees,</hi> though now, I believe, one hardly appears in the whole Lordſhip. In this ſute,</p>
+               <p>
+                  <list>
+                     <label>Plaintiff.</label>
+                     <item>
+                        <hi>Peter,</hi> Duke of <hi>Savoy,</hi> the Kings dear Uncle, (firſt founder, I take it, of the <hi>Savoy</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don)</hi> on whom the King conferred many <hi>Lord<g ref="char:EOLhyphen"/>ſhips,</hi> and <hi>Cheſthunt</hi> a<g ref="char:EOLhyphen"/>mongſt the reſt.</item>
+                     <label>Judges.</label>
+                     <item>
+                        <hi>Ralph Fitz-Nicolas, John</hi> of <hi>Lexington, Pau<g ref="char:EOLhyphen"/>lin Peyner Seneſchal, Henry</hi> of <hi>Bath, Jeremy</hi> of <hi>Caxton, Henry de Bretton.</hi>
+                     </item>
+                     <label>Defendant.</label>
+                     <item>
+                        <hi>Simon,</hi> the <hi>Ab<g ref="char:EOLhyphen"/>bot,</hi> and the <hi>Co<g ref="char:EOLhyphen"/>vent</hi> of <hi>Wal<g ref="char:EOLhyphen"/>tham.</hi>
+                     </item>
+                     <label>Solicitor.</label>
+                     <item>
+                        <hi>Adam de Alverton.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>The Caſe.</hi>
+               </p>
+               <p>The <hi>Plaintiff</hi> endeavoured to prove, that the ſtream of <hi>Ley,</hi> (called the <hi>Kings-Stream)</hi> dividing <hi>Hertford</hi>-ſhire from <hi>Eſſex,</hi> ran thorow the Town of <hi>Waltham,</hi> all the land <hi>West</hi> thereof belonging to the Manor of <hi>Cheſthunt.</hi> This was denied by the <hi>Defendant,</hi> maintaining that <hi>Small-Ley-ſtream,</hi> running wel<g ref="char:EOLhyphen"/>nigh half a mile <hi>West</hi> of <hi>Waltham,</hi> parted the Counties, all the interjacent meadows pertained to <hi>Waltham.</hi>
+               </p>
+               <p>Peruſing the names of theſe the <hi>Kings Juſtices</hi> at <hi>Weſtminſter,</hi> who would <note place="margin">A like not the ſame.</note> not ſuſpect, but that this <hi>Henry</hi> of <hi>Bath</hi> was <hi>Biſhop</hi> of that <hi>See?</hi> conſidering how many <hi>Clergy-men</hi> in that age, were imployed in places of <hi>Judicature.</hi> But the ſuſpicion is cauſleſs, finding none of that name in the <hi>Epiſcopal Cata<g ref="char:EOLhyphen"/>logue.</hi> Others in like manner may apprehend, that <hi>Bretton,</hi> here mentioned, was that <hi>Learned Lawyer</hi> (afterwards Biſhop of <hi>Hereford)</hi> who wrote the <note n="*" place="margin">See <hi>Godwin</hi> in his Biſhops of <hi>Hereford.</hi>
+                  </note> Book <hi>De Juribus Anglicanis,</hi> and who flouriſhed in the latter end of the Reign of this King <hi>Henry</hi> the third. But his name being <hi>John,</hi> not <hi>Henry,</hi> diſ<g ref="char:EOLhyphen"/>covereth him a different perſon.</p>
+               <p>Not long after, this <hi>ſute</hi> was finally determined, and <hi>Peter</hi> Duke of <hi>Savoy remiſed</hi> and <hi>quit-claimed</hi> from him and his Heirs, to the ſaid <hi>Abbot</hi> and
+<pb n="11" facs="tcp:204515:6"/> his Succeſſors, the <hi>right</hi> and <hi>claim</hi> he had to ask in the ſame <hi>Meadows</hi> and <hi>Marſhes</hi> of the ſaid <hi>Abbot.</hi> This is called in the <hi>Inſtrument ſinalis concordia,</hi> though it proved neither <hi>final,</hi> nor a <hi>concord.</hi> For, ſoon after this <hi>pallia<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cure</hi> broke out again, and the matter was in variance and undetermined be<g ref="char:EOLhyphen"/>twixt <hi>Robert,</hi> the laſt <hi>Abbot,</hi> and the Lord of <hi>Cheſthunt,</hi> when the <hi>Abby</hi> was diſſolved.</p>
+               <p>Many <hi>acceſsions</hi> (beſides thoſe common <hi>prolongers</hi> of all <hi>ſutes,</hi> namely the heat of mens anger, and the <hi>bellows</hi> of inſtruments, gaining by Law) did concur to lengthen this <hi>cauſe.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>conſiderableneſs</hi> and concernment of the thing controverted, being a large and rich portion of ground.</item>
+                  <item>2. The <hi>difficulty</hi> of the <hi>cauſe,</hi> about the <hi>chanels</hi> of that <hi>River,</hi> which, <hi>Proteus</hi>-like, in ſeveral Ages hath appeared in ſundry formes, diſguiſed by derivations on different occaſions.</item>
+                  <item>3. The <hi>greatneſs</hi> of the <hi>Clients; Cheſthunt Lordſhip</hi> being alwayes in the hand of ſome potent perſon, and the Corporation of <hi>Waltham Covent</hi> able to wage <hi>Law</hi> with him.</item>
+               </list>
+               <p>Hence hath this <hi>ſute</hi> been as <hi>long-liv'd</hi> as any in <hi>England,</hi> (not excepting that in <note n="*" place="margin">
+                     <hi>Cambden</hi> in <hi>Gloceſter</hi>-ſhire.</note> 
+                  <hi>Gloceſter</hi>-ſhire, betwixt the poſterity of <hi>Vice-Count Liſle,</hi> and the <hi>Lord Barkley;)</hi> ſeeing very lately (if not at this day) there were ſome ſutes about our bounds; <hi>Waltham</hi> Meadows being very rich in <hi>graſs</hi> and <hi>hay,</hi> but too fruitful in contentions.</p>
+               <p>For mine own part, that wound which I cannot heal, I will not widen: and, ſeeing I may ſay with the <hi>Poet,</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Non noſtrum inter vos tantas componere lites.</l>
+                  </lg>
+                  <lg>
+                     <l>No power of mine ſo far extends,</l>
+                     <l>As for to make both parties friends.</l>
+                  </lg>
+               </q>
+               <p>I will not turn, of an <hi>unpartial Historian,</hi> an <hi>engaged perſon,</hi> who as a <hi>neigh<g ref="char:EOLhyphen"/>bour</hi> wiſh well to <hi>Cheſthunt,</hi> as a <hi>Pariſhioner</hi> better to <hi>Waltham;</hi> as a <hi>Chriſtian,</hi> beſt to both. And therefore ſo much for <hi>matter of fact,</hi> in our <hi>Records</hi> and <hi>Lei<g ref="char:EOLhyphen"/>ger-books,</hi> leaving all matters of <hi>right</hi> for others to decide.</p>
+               <p>Mean time, whileſt the <hi>Abbot</hi> and <hi>Monks</hi> of <hi>Waltham,</hi> were vexed with the <hi>men</hi> of <hi>Cheſthunt,</hi> they found more favour (if publick fame belies them not) from ſome <hi>loving women</hi> in that Pariſh, I mean the <hi>Holy Sisters</hi> in <hi>Cheſt<g ref="char:EOLhyphen"/>hunt-Nunnery,</hi> whoſe <hi>Houſe</hi> (when ever Founded) I finde ſome ten years ſince thus confirmed by <hi>Royal Authority.</hi>
+               </p>
+               <q>Henricus Rex Anglie, Dominus Hybernie, Dux Normanie, Aqui<g ref="char:EOLhyphen"/>tanie, <note place="margin">
+                     <hi>Cheſthunt</hi> Nunnery Founded.</note> &amp; Comes Andegavie &amp;c. Sheſtrehunt Moniales totam terram Dom. teneant cum pertinentiis ſuiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Canonicis de Cathele &amp;c. quos amoveri fecimus. Datum apud Weſt. xj. Aug. Anno Regni noſtri xxiiij.</q>
+               <p>But this ſubject begins to ſwell beyond the bounds intended unto it, leſt therefore what we intended but a <hi>Tract</hi> ſhould ſwell to a <hi>Tome,</hi> we will here deſcend to matters of later date.</p>
+               <p>Onely be it premiſed, that ſome years before the <hi>Diſſolution, Robert</hi> the <note place="margin">
+                     <hi>Copt-Hall</hi> paſt to King <hi>Hen.</hi> 8.</note> laſt <hi>Abbot</hi> of <hi>Waltham,</hi> paſſed over the fair ſeat of <hi>Copt-Hall,</hi> unto <hi>King Henry</hi> the <hi>eighth.</hi> Thus as the <hi>Caſtor,</hi> when purſued by the <hi>Hunter,</hi> to make his eſcape is reported to bite off his own <hi>ſtones,</hi> (as the main treaſure ſought af<g ref="char:EOLhyphen"/>ter)
+<pb n="12" facs="tcp:204515:7"/> and ſo ſaves his <hi>life</hi> by loſing a <hi>limb:</hi> So this <hi>Abbot</hi> politickly parted with that <hi>ſtately Manſion,</hi> in hope thereby to preſerve the reſt of his <hi>revenues.</hi> However all would not do, (ſo impoſſible it is to <hi>ſave,</hi> what is deſign'd to <hi>ruine)</hi> and few years after, the <hi>Abby,</hi> with the large <hi>Lands</hi> thereof, were ſeized on by the <hi>King,</hi> and for ſome Moneths, <hi>He</hi> alone ſtood poſſeſſed thereof.</p>
+            </div>
+            <div type="part">
+               <head>The Extraction, Charter, Death and Iſſue of <hi>Sir Anthony Dennie,</hi> on whom King <hi>Henry</hi> the Eighth beſtowed <hi>WALTHAM-ABBY.</hi>
+               </head>
+               <p>AT the <hi>Diſſolution,</hi> King <hi>Henry</hi> beſtowed the <hi>Site</hi> of this <hi>Abby,</hi> with <note place="margin">A Leaſe of <hi>Waltham</hi>-Ab<g ref="char:EOLhyphen"/>by given to Sir <hi>Anthony Denny.</hi>
+                  </note> many large and rich Lands belonging thereunto, on S<hi rend="sup">r</hi> 
+                  <hi>Anthony Dennie,</hi> for the terme of Thirty one years. Let us a little enquire into his extraction and diſcent.</p>
+               <p>I finde the name very Ancient at <note n="a" place="margin">
+                     <hi>Speed,</hi> or ra<g ref="char:EOLhyphen"/>ther Sr <hi>Rob. Cotton</hi> in <hi>Huntingdon</hi>-ſhire.</note> 
+                  <hi>Cheſterton</hi> in <hi>Huntington</hi>-ſhire, where <note place="margin">
+                     <hi>John Denny</hi> the great ſould<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er in <hi>France.</hi>
+                  </note> the Heir-general was long ſince married, to the worſhipful and Ancient Fa<g ref="char:EOLhyphen"/>mily of the <hi>Bevils.</hi> It ſeems, a branch of the Male-line afterwards fixed in <hi>Hertford</hi>-ſhire; Whereof <hi>John Denny,</hi> Eſquire, valiantly ſerved <hi>Henry</hi> the fifth in <hi>France,</hi> where he was ſlain, and buried with <hi>Thomas,</hi> his ſecond Son, in S<hi rend="sup">t</hi> 
+                  <hi>Dionys</hi> his Chappel; their interment in ſo noble a place ſpeaking their worthy performances. In the Reign of Queen <hi>Mary,</hi> a Frier ſhewed their <hi>Tombes</hi> to S<hi rend="sup">r</hi> 
+                  <hi>Matthew Carew,</hi> together with their <hi>Coates</hi> and <hi>differences. Henry,</hi> eldeſt ſon of this <hi>John Denny,</hi> begat <hi>William Denny</hi> of <hi>Cheſthunt</hi> in <hi>Hertford</hi>-ſhire, which <hi>William</hi> was High Sheriff of the County in the year 1480. lea<g ref="char:EOLhyphen"/>ving <hi>Edmond Denny</hi> to inherit his <hi>estate.</hi>
+               </p>
+               <p>
+                  <hi>Edmond Denny</hi> was one of the <hi>Barons</hi> of the <hi>Exchequer,</hi> in credit and favour <note place="margin">
+                     <hi>Edm. Denny</hi> Baron of the Exchequer.</note> with King <hi>Edward</hi> the Fourth, and <hi>Henry</hi> the Seventh. He Married <hi>Mary,</hi> the Daughter and Heir of <hi>Robert Troutbeck</hi> Eſquire, on whom he begat <hi>Tho<g ref="char:EOLhyphen"/>mas Denny,</hi> from whom the <hi>Dennies</hi> in <hi>Norfolk</hi> are deſcended.</p>
+               <p>
+                  <hi>Anthony Denny,</hi> ſecond Son to <hi>Baron Denny,</hi> was Knighted by King <hi>Henry</hi> 
+                  <note place="margin">
+                     <hi>Anthony Denny</hi> his high com<g ref="char:EOLhyphen"/>mendations.</note> the Eighth, made <hi>Gentleman</hi> of his <hi>Bed-chamber, Privy-Councellour,</hi> and one of his <hi>Executors.</hi> I cannot ſay he was bred any great Scholar, but finde him a <hi>Mecaenas,</hi> and <hi>grand favourer</hi> of Learned men. For, when the School of <note n="b" place="margin">
+                     <hi>Aſcham, Commend. Epiſt. fol. 210. Idem.</hi> fol. 208.</note> 
+                  <hi>Sedbury</hi> in the <hi>North,</hi> belonging to S<hi rend="sup">t</hi> 
+                  <hi>Johns</hi> in <hi>Cambridg,</hi> was run to ruine, the Lands thereof being ſold and embezeled, S<hi rend="sup">r</hi> 
+                  <hi>Anthony</hi> procured the re<g ref="char:EOLhyphen"/>paration of the Schoole, and reſtitution of their means, firmly ſetling them to prevent future alienation. Hear what character <hi rend="sup">c</hi> M<hi rend="sup">r</hi> 
+                  <hi>Aſcham</hi> gives of him; <hi>Religio, Doctrina, Respublica, omnes curas tuas ſic occupant, ut extra has tres res nullum tempus conſumas; Religion, Learning, Common-wealth, ſo employ all thy cares, that beſides theſe three things you ſpend no other time.</hi> Let then the enemies (if any) of his memory abate of this character to what proportion they pleaſe (pretending it but the Orators Rhetorical Hyperbole) the very re<g ref="char:EOLhyphen"/>mainder thereof, which their malice muſt leave, will be ſufficient to ſpeak S<hi rend="sup">r</hi> 
+                  <hi>Anthony</hi> a worthy and meriting Gentleman.</p>
+               <p>I finde an excellent Epitaph made on him by one the <hi>Learned'ſt</hi> of <hi>Noble<g ref="char:EOLhyphen"/>men,</hi> 
+                  <note place="margin">His Epitaph made by the Lord <hi>Howard.</hi>
+                  </note> and Nobleſt of Learned men in his age, <hi>viz. Henry Howard,</hi> Earl of <hi>Surrey,</hi> and eldeſt ſon to the Duke of <hi>Norfolk,</hi> worthy the Reader his pe<g ref="char:EOLhyphen"/>ruſal.</p>
+               <pb n="13" facs="tcp:204515:7"/>
+               <lg>
+                  <head>
+                     <g ref="char:V">Ʋ</g>pon the Death of <hi>Sir Anthony</hi> 
+                     <note n="a" place="margin">
+                        <hi>Weavers</hi> Fu<g ref="char:EOLhyphen"/>neral Monu<g ref="char:EOLhyphen"/>ments, <hi>p.</hi> 852.</note> 
+                     <hi>Denny.</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi>Death,</hi> and the <hi>King,</hi> did, as it were, contend,</l>
+                     <l>Which of them two bare <hi>Denny</hi> greateſt love:</l>
+                     <l>The <hi>King,</hi> to ſhew his love 'gan far extend,</l>
+                     <l>Did him advance his betters far above.</l>
+                     <lg>
+                        <l>Neer place, much wealth, great honour eke him gave,</l>
+                        <l>To make it known what power Princes have.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>But when <hi>Death</hi> came with his triumphant gift,</l>
+                     <l>From worldly cark he quit his wearied ghoſt</l>
+                     <l>Free from the corps, and ſtraight to Heaven it lift.</l>
+                     <l>Now deem that can, who did for <hi>Denny</hi> moſt.</l>
+                     <lg>
+                        <l>The <hi>King</hi> gave wealth, but fading and unſure:</l>
+                        <l>
+                           <hi>Death</hi> brought him bliſs that ever ſhall endure.</l>
+                     </lg>
+                  </lg>
+               </lg>
+               <p>Know Reader, that this Lord made this <hi>Epitaph</hi> by a Poetical <hi>Prolepſis;</hi> otherwiſe, at the reading thereof who would not conceive, that the <hi>Author</hi> ſurviv'd the <hi>ſubject of his Poem?</hi> Whereas indeed this Lord died (beheaded 1546.) in the Reign of King <hi>Henry</hi> the Eighth, whom S<hi rend="sup">r</hi> 
+                  <hi>Anthony</hi> out-lived, being one of the Executors of his Will. Nor was it the worſt piece of ſer<g ref="char:EOLhyphen"/>vice he performed to his Maſter, when (all other Courtiers declining the employment) he truly acquainted him with his dying-condition, to diſpoſe of his ſoul for another world.</p>
+               <p>S<hi rend="sup">r</hi> 
+                  <hi>Anthony</hi> died about the ſecond of <hi>Edward</hi> the ſixth, Dame <hi>Joan</hi> his <note place="margin">His iſſue by Dame <hi>Joan</hi> his wife.</note> Wife, ſurviving him. Daughter ſhe was to S<hi rend="sup">r</hi> 
+                  <hi>Philip Champernoon</hi> of <hi>Mod<g ref="char:EOLhyphen"/>bury</hi> in <hi>Devon</hi>-ſhire: a Lady of great beauty and parts, a favourer of the Re<g ref="char:EOLhyphen"/>formed Religion when the times were moſt dangerous. She ſent eight ſhil<g ref="char:EOLhyphen"/>lings by her man, in a <hi>Violet coat,</hi> to <hi>Anne</hi> 
+                  <note n="b" place="margin">
+                     <hi>Fox,</hi> Acts &amp; Monuments, <hi>fol.</hi> 1239.</note> 
+                  <hi>Aſchough</hi> when impriſoned in the <hi>Counter;</hi> a ſmall ſum, yet a great gift, ſo hazardous it was to help any in her condition. This Lady <hi>Joan</hi> bought the <hi>Reverſion in Fee</hi> of <hi>Waltham,</hi> from King <hi>Edward</hi> the Sixth, paying three thouſand and hundred pounds for the ſame, purchaſing therewith <hi>large priviledges</hi> in <hi>Waltham-Foreſt,</hi> as by the <hi>Letters Patents</hi> doth appear. She bare two Sons to S<hi rend="sup">r</hi> 
+                  <hi>Anthony, Henry Denny,</hi> Eſquire, of whom hereafter: the ſecond S<hi rend="sup">r</hi> 
+                  <hi>Edward,</hi> who, by Gods bleſſing, Queen <hi>Elizabeths</hi> bounty, and his own valour, atchieved a fair eſtate in the County of <hi>Kerry</hi> in <hi>Ireland,</hi> which at this day is (if any thing in that woful <hi>war-wasted Countrey</hi> can be) enjoyed by his great Grand<g ref="char:EOLhyphen"/>child, <hi>Arthur Denny</hi> Eſq; of <hi>Tralleigh.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The condition of <hi>Waltham</hi> Church from the Diſſolution of the Abby, untill the Death of King <hi>HENRY</hi> the Eighth.</head>
+               <p>HAving the peruſal of the <hi>Church-Wardens</hi> accounts, wherein their An<g ref="char:EOLhyphen"/>cient expences and receits are exactly taken, fairly written, and care<g ref="char:EOLhyphen"/>fully kept, I ſhall ſelect thence ſome memorable <hi>Items,</hi> to acquaint us with the <hi>general devotion</hi> of thoſe dayes.</p>
+               <pb n="14" facs="tcp:204515:8"/>
+               <p>Know then, there were ſix <hi>Ordinary Obits</hi> which the <hi>Church-wardens</hi> did annually diſcharge, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <label>For</label>
+                     <list>
+                        <item>
+                           <hi>Thomas Smith,</hi> and <hi>Joan</hi> his wife, on the ſixteenth of <hi>January.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Friend, Joan</hi> and <hi>Joan</hi> his wives, on the ſixteenth of <hi>Fe<g ref="char:EOLhyphen"/>bruary.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Peest</hi> and <hi>Joan</hi> his wife, on the tenth of <hi>April.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Towers</hi> and <hi>Katharine</hi> his wife, the ſix and twentieth of <hi>April.</hi>
+                        </item>
+                        <item>
+                           <hi>John Breges</hi> and <hi>Agnes</hi> his wife, the one and thirtieth of <hi>May.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Turner</hi> and <hi>Christian</hi> his wife, the twentieth day of <hi>De<g ref="char:EOLhyphen"/>cember.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>The charge of an <hi>Obit</hi> was two ſhillings and two pence; and, if any be curi<g ref="char:EOLhyphen"/>ous to have the particulars thereof, it was thus expended. To the <hi>Pariſh-Priest</hi> four pence; to our <hi>Ladies-Prieſt</hi> three pence; to the <hi>Charnel-Priest</hi> three pence; to the two <hi>Clerks</hi> four pence; to the <hi>Children</hi> (theſe I conceive <hi>Choris<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers)</hi> three pence; to the <hi>Sexton</hi> two pence; to the <hi>Bell-man</hi> two pence; for two <hi>Tapers</hi> two pence; for <hi>Oblation</hi> two pence. Oh the reaſonable rates at <hi>Waltham!</hi> two ſhillings two pence for an <hi>Obit,</hi> the price whereof in Saint <hi>Pauls</hi> in <hi>London</hi> was fourty ſhillings. For (forſooth) the higher the <hi>Church,</hi> the holier the <hi>ſervice,</hi> the dearer the <hi>price,</hi> though he had given too much that had given but thanks for ſuch vanities.</p>
+               <p>To defray the expences of theſe <hi>Obits,</hi> the parties prayed for, or their Executors, left <hi>Lands, Houſes</hi> or <hi>Stock,</hi> to the Church-Wardens. <hi>Thomas Smith</hi> bequeathed a <hi>Tenement</hi> in the <hi>Corn-Market,</hi> and others gave <hi>Lands</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>pſhire,</hi> called <hi>Pater-noſter-Hills;</hi> others <hi>ground</hi> elſwhere, beſides a <hi>ſtock</hi> of eighteen <hi>Cows,</hi> which the <hi>Wardens</hi> let out yearly to farm for eighteen ſhil<g ref="char:EOLhyphen"/>lings, making up their yearly accounts at the Feaſt of <hi>Michael</hi> the Arch-Angel, out of which we have excerpted the following remarkable parti<g ref="char:EOLhyphen"/>culars.</p>
+               <div n="1542" type="year">
+                  <head>Anno 1542. the <hi>34<hi rend="sup">th</hi>
+                     </hi> of <hi>HENRY</hi> the <hi>8<hi rend="sup">th</hi>.</hi>
+                  </head>
+                  <p>
+                     <hi>Imprimjs.</hi> For watching the <hi>Sepulchre,</hi> a groat.] This conſtantly re<g ref="char:EOLhyphen"/>turnes in every yearly account, though what meant thereby, I know not. I could ſuſpect ſome <hi>Ceremony</hi> on <hi>Eaſter-eve,</hi> (in imitation of the <hi>Souldiers</hi> watching <hi>Chriſts grave)</hi> but am loath to charge that Age with more ſuperſti<g ref="char:EOLhyphen"/>tion then it was clearly guilty of.</p>
+                  <p>
+                     <hi>Item,</hi> Paid to the Ringers at the coming of the Kings Grace, ſix pence.] Yet <hi>Waltham</hi> Bells told no tales every time King <hi>Henry</hi> came hither, having a ſmall houſe in <hi>Rome-land</hi> to which he is ſaid oft privately to retire, for his pleaſure.</p>
+                  <p>
+                     <hi>Item,</hi> Paid unto two <hi>men of Law</hi> for their counſel about the Church<g ref="char:EOLhyphen"/>leaſes, ſix ſhillings eight pence.</p>
+                  <p>
+                     <hi>Item,</hi> Paid the <hi>Attorney</hi> for his <hi>Fee,</hi> twenty pence.</p>
+                  <p>
+                     <hi>Item,</hi> Paid for Ringing at the Prince his coming, a penny.</p>
+               </div>
+               <div n="1543" type="year">
+                  <head>Anno 1543. the <hi>35<hi rend="sup">th</hi>
+                     </hi> of <hi>HENRY</hi> the <hi>8<hi rend="sup">th</hi>.</hi>
+                  </head>
+                  <p>
+                     <hi>Imprimis,</hi> Received of the <hi>Executors</hi> of S<hi rend="sup">r</hi> 
+                     <hi>Robert Fuller,</hi> given by the ſaid S<hi rend="sup">r</hi> 
+                     <hi>Robert</hi> to the Church, ten pounds.</p>
+                  <p>How is this man degraded from the <hi>Right Honourable</hi> the <hi>Lord Abbot</hi> of <hi>Waltham</hi> (the laſt in that place) to become a poor S<hi rend="sup">r</hi> 
+                     <hi>Robert,</hi> the title of the meaneſt Prieſt in that age. Yet ſuch his charity in his poverty, that, be<g ref="char:EOLhyphen"/>ſides
+<pb n="15" facs="tcp:204515:8"/> this legacy, he bequeathed to the Church a Chalice <note n="a" place="margin">The Church-wardens ac<g ref="char:EOLhyphen"/>count, <hi>Anno</hi> 1556.</note> ſilver and gilt, which they afterwards ſold for ſeven pounds.</p>
+               </div>
+               <div n="1544" type="year">
+                  <head>Anno 1544. the 36. of <hi>HENRY</hi> the <hi>8<hi rend="sup">th</hi>.</hi>
+                  </head>
+                  <p>
+                     <hi>Imprimis,</hi> Received of <hi>Adam Tanner</hi> the overplus of the money which was gathered for the <hi>purchaſe</hi> of the Bells, two pound four ſhillings and ele<g ref="char:EOLhyphen"/>ven pence.] It ſeems the Kings Officers ſold, and the Pariſh then purchaſed the five Bells being great and tunable (who, as they gave bountifully, ſo I preſume they bought reaſonably) and the ſurpluſage of the money was de<g ref="char:EOLhyphen"/>livered.</p>
+                  <p>
+                     <hi>Item,</hi> Received of <hi>Richard Tanner</hi> for eight <hi>Stoles,</hi> three ſhillings.] A <hi>Stole</hi> was a <hi>vestment</hi> which the Prieſt uſed. Surely theſe were much worn, and very <hi>rags</hi> of <hi>Popery,</hi> as ſold for four pence half penny a piece. It ſeems the Church-wardens were not ſo charitable to give away, nor ſo ſuperſtiti<g ref="char:EOLhyphen"/>ous to burn, but ſo thrifty as to make profit by ſale of theſe decayed veſt<g ref="char:EOLhyphen"/>ments.</p>
+                  <p>
+                     <hi>Item,</hi> Paid for mending the hand-bell, two pence.] This was not fixed as the reſt in any place of Church or Steeple, but (being a <hi>Diminutive</hi> of the <hi>Saints-bell)</hi> was carried in the Sextons hands at the circumgeſtation of the Sacrament, the viſitation of the ſick, and ſuch like occaſions.</p>
+                  <p>
+                     <hi>Item,</hi> Paid to <hi>Philip Wright,</hi> Carpenter, for making a frame in the <hi>Bell<g ref="char:EOLhyphen"/>frey,</hi> eighteen ſhillings four pence.] The Bels being bought by the Pariſhioners, were taken down out of the decayed Steeple, and we ſhall afterwards ſee what became thereof. Mean time a <hi>timber-frame</hi> was made (which the aged of the laſt generation eaſily remembred) in the <hi>South-East</hi> end of the <hi>Church-yard,</hi> where now two Yew-trees ſtand, and a ſhift made for ſome years to hang the <hi>Bells</hi> thereon.</p>
+               </div>
+               <div n="1546" type="year">
+                  <head>Anno 1546. the 38. of <hi>HENRY</hi> the <hi>8<hi rend="sup">th</hi>.</hi>
+                  </head>
+                  <p>
+                     <hi>Item,</hi> For <hi>claſps</hi> to hold up the <hi>Banners</hi> in the body of the <hi>Church,</hi> eight pence.] By theſe, I underſtand, not <hi>Pennons</hi> with <hi>Arms</hi> hanging over the Graves of interred Gentlemen, but rather ſome ſuperſtitious <hi>Sireamers,</hi> uſu<g ref="char:EOLhyphen"/>ally carried about in <hi>Proceſsion.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> Paid to <hi>John Boston</hi> for mending the <hi>Organs,</hi> twentie pence.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The ſtate of <hi>Waltham</hi> Church during the Reign of King <hi>EDWARD</hi> the Sixth.</head>
+               <p>
+                  <hi>OLd things are paſſed away, behold all things now are become new.</hi> Super<g ref="char:EOLhyphen"/>ſtition by degrees being baniſhed out of the Church, we hear no more of <hi>prayers</hi> and <hi>Maſſes</hi> for the dead. Every <hi>Obit</hi> now had its own <hi>Obit,</hi> and fully expired, the Lands formerly given thereunto being imployed to more charitable uſes. But let us ſelect ſome particulars of the Church-wardens accounts in this Kings dayes.</p>
+               <div n="1549" type="year">
+                  <head>Anno 1549. the <hi>3<hi rend="sup">d</hi>.</hi> of <hi>EDWARD</hi> the Sixth.</head>
+                  <p>
+                     <hi>Imprimis,</hi> Sold the <hi>Silver plate</hi> which was on the <hi>desk</hi> in the <hi>Charnel,</hi> weighing five ounces for twenty five ſhillings.] Gueſs the <hi>gallantry</hi> of our
+<pb n="16" facs="tcp:204515:9"/> 
+                     <hi>Church</hi> by this (preſuming all the reſt in proportionable <hi>equipage)</hi> when the desk, whereon the Prieſt read, was inlaid with plate of ſilver.</p>
+                  <p>
+                     <hi>Item,</hi> Sold a <hi>rod of iron</hi> which the curtain run upon before the <hi>Rood,</hi> nine pence.] The Rood was an Image of Chriſt on the Croſs, made generally of wood, and erected in a loft for that purpoſe, juſt over the paſſage out of the Church into the Chancel. And, wot you what <hi>ſpiritual myſterie</hi> was couched in this poſition thereof? The Church (forſooth) typified the <hi>Church Militant,</hi> the <hi>Chancel</hi> repreſents the <hi>Church Triumphant;</hi> and all, who will paſs out of the <hi>former</hi> into the <hi>latter,</hi> muſt go under the <hi>Rood-loft;</hi> that is, carry the <hi>croſs</hi> and be acquainted with affliction. I add this the rather, becauſe <note n="a" place="margin">
+                        <hi>Fox</hi> Acts &amp; Mon, in the examination of <hi>Tho. Hawks, pag.</hi> 1590.</note> 
+                     <hi>Harpsfield,</hi> that great Scholar (who might be preſumed knowing in his own art of Superſtition) confeſſeth himſelf ignorant of the reaſon of the <hi>Rood-ſcituation.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> Sold ſo much <hi>Wax</hi> as amounted to twenty ſix ſhillings.] So thrif<g ref="char:EOLhyphen"/>ty the <hi>Wardens,</hi> that they bought not <hi>candles</hi> and <hi>tapers</hi> ready made, but bought the <hi>wax</hi> at the beſt hand, and payed poor people for the making of them. Now they ſold their <hi>Magazine</hi> of <hi>wax</hi> as uſeleſs. Under the Reformation more light and fewer candles.</p>
+                  <p>
+                     <hi>Item,</hi> Paid for half of the <hi>Book</hi> called <hi>Paraphraſe,</hi> five ſhillings.] By the ſeventh Injunction of King <hi>Edward,</hi> each Pariſh was to procure the <hi>Para<g ref="char:EOLhyphen"/>phraſe</hi> of <hi>Eraſmus,</hi> namely, the firſt part thereof on the Goſpels, and the ſame to be ſet up in ſome convenient place in the <hi>Church.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> Spent in the Viſitation at <hi>Chelmsford</hi> amongſt the <hi>Wardens</hi> and other honeſt men, fourteen ſhillings four pence.] <hi>A round ſumme</hi> I aſſure you in thoſe dayes. This was the firſt <hi>Viſitation</hi> (kept by <hi>Nicholas Ridley</hi> newly Biſhop of <hi>London)</hi> whereat <hi>Waltham-Wardens</hi> ever appeared out of their own Town, whoſe <hi>Abbot</hi> formerly had <hi>Epiſcopal Juriſdiction.</hi>
+                  </p>
+               </div>
+               <div n="1551" type="year">
+                  <head>
+                     <hi>Anno</hi> 1551 the 5<hi rend="sup">th</hi> of EDWARD the 6<hi rend="sup">th</hi>.</head>
+                  <p>
+                     <hi>Imprimis,</hi> Received for a <hi>Knell</hi> of a <hi>ſervant</hi> to the <hi>Lady Mary</hi> her Grace, ten pence.] <hi>Copt-Hall</hi> in this Pariſh being then in the Crown, the <hi>Lady</hi> (af<g ref="char:EOLhyphen"/>terwards Queen) <hi>Mary,</hi> came thither ſometimes to take the air probably, during whoſe reſidence there this her ſervant died.</p>
+                  <p>
+                     <hi>Item,</hi> Loſt fourty ſix ſhillings by reaſon of the fall of money by <hi>Proclamati<g ref="char:EOLhyphen"/>on.]</hi> King <hi>Henry</hi> much debaſed the <hi>Engliſh Coyn,</hi> to his own gain and the Lands loſs (if Soveraigns may be ſaid to get by the damage of their Subjects) yet all would not do to pay his debts. His Son <hi>Edward</hi> endeavoured to re<g ref="char:EOLhyphen"/>duce the <hi>Coyn</hi> to its <hi>true ſtandard,</hi> decrying bad money by his Proclamation, to the intrinſick value thereof. But, prevented by death, he effected not this difficult deſign <hi>(Adultery</hi> in <hi>Men,</hi> and <hi>Adulterateneſs</hi> in <hi>Money,</hi> both hard<g ref="char:EOLhyphen"/>ly reclaimed) which was afterwards compleated by the care of <hi>Queen Eli<g ref="char:EOLhyphen"/>zabeth.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> Received for two hundred ſeventy one ounces of Plate, ſold at ſe<g ref="char:EOLhyphen"/>veral times for the beſt advantage, ſixtie ſeven pound fourteen ſhillings and nine pence.] Now was the Brotherhood in the Church diſſolved, conſiſt<g ref="char:EOLhyphen"/>ing as formerly of three Prieſts, three Choriſters, and two Sextons; and the rich plate belonging to them was ſold for the good of the Pariſh. It may ſeem ſtrange the Kings Commiſſioners deputed for that purpoſe, ſeiſed not on it, from whoſe hands <hi>Waltham</hi> found ſome favour (befriended by the Lord <hi>Rich</hi> their Countrey-man) the rather becauſe of their intentions to build their decaied Steeple.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:204515:9"/>
+               <head>Church-alterations in the Reign of Queen <hi>MARY.</hi>
+               </head>
+               <p>
+                  <hi>NEw Lady new Laws.</hi> Now ſtrange the Metamorphoſis in <hi>Waltham.</hi> Condemn not this our <hi>Como-graphie,</hi> or deſcription of a <hi>Country-Town,</hi> as too low and narrow a ſubject, ſeeing in ſome ſort the Hi<g ref="char:EOLhyphen"/>ſtorie of <hi>Waltham-Church</hi> is the <hi>Church-Hiſtory of England,</hi> all Pariſhes in that age being infected alike with ſuperſtition. Nor intend I hereby to renew the memorie of Idolatrie, but to revive our gratitude to God for the aboliſhing thereof, whoſe numerous trinkets here enſue.</p>
+               <div n="1554" type="year">
+                  <head>Anno 1554. Mariae primo.</head>
+                  <p>
+                     <hi>Imprimis,</hi> For a <hi>Croſs</hi> with a foot <hi>copper and gilt,</hi> twentie five ſhillings.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Croſs-ſtaff copper and gilt,</hi> nine ſhillings and four pence.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Pax copper and gilt,</hi> five ſhillings.] <hi>Greet one another,</hi> ſaith S<hi rend="sup">t</hi> 
+                     <note n="a" place="margin">1 Cor 16. 20</note> 
+                     <hi>Paul, with an holy kiſs,</hi> on which words of the Apoſtle the <hi>Pax</hi> had its ori<g ref="char:EOLhyphen"/>ginal. This Ceremony performed in the <hi>Primitive times,</hi> and <hi>Eaſtern Countries,</hi> was afterwards (to prevent wantonneſs, &amp; to make the more expedition) com<g ref="char:EOLhyphen"/>muted into a new cuſtome, <hi>viz.</hi> A piece of wood, or metall (with Chriſt's picture thereon) was made, and ſolemnly tendred to all people to kiſs. This was called the <hi>Pax,</hi> or <hi>Peace,</hi> to ſhew the unity and amity of all there aſſem<g ref="char:EOLhyphen"/>bled, who (though not immediately) by the Proxie of the <hi>Pax</hi> kiſſed one another.</p>
+                  <p>
+                     <hi>Item,</hi> For a pair of <hi>Cenſers copper and gilt,</hi> nine ſhillings and eight pence.] Theſe were pots in the which frankincenſe was burned, perfuming the Church during Divine Service.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Stock of braſs</hi> for the <hi>Holy-water,</hi> ſeven ſhillings.] Which by the Canon muſt be of marble, or metall, and in no caſe of brick, <note n="b" place="margin">Durantus de Ritibus Eccleſ. <hi>num. 6. pag.</hi> 173.</note> leſt the ſacred liquor be ſuck'd up by the ſpungineſs thereof.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Chriſmatory</hi> of <hi>pewter,</hi> three ſhillings four pence.] This was a veſſel in which the <hi>conſecrated oyl,</hi> uſed in <hi>Baptiſme, Confirmation,</hi> and <hi>Extreme <g ref="char:V">Ʋ</g>nction,</hi> was depoſited.</p>
+                  <p>
+                     <hi>Item,</hi> For a yard of <hi>ſilver Sarcenet</hi> for a <hi>cloth</hi> for the <hi>Sacrament,</hi> ſeven ſhil<g ref="char:EOLhyphen"/>lings eight pence.] Here ſome Silkeman or Mercer muſt ſatisfie us what this was. The price ſeems too low for <hi>Sarcenet inwoven</hi> with ſilver, and too high for plain <hi>Sarcenet</hi> of a <hi>ſilver</hi> colour.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Pix</hi> of <hi>Pewter,</hi> two ſhillings.] This was a <hi>Box</hi> wherein the <hi>Hoſt,</hi> or <hi>conſecrated wafer,</hi> was put and preſerved.</p>
+                  <p>
+                     <hi>Item,</hi> For <hi>Mary</hi> and <hi>John</hi> that ſtand in the <hi>Rood-loft,</hi> twenty ſix ſhillings eight pence.] <hi>Chriſt</hi> 
+                     <note n="c" place="margin">John 19. 26<g ref="char:punc">▪</g> &amp;c.</note> 
+                     <hi>on the Croſs ſaw his Mother, and the Diſciple whom he loved ſtanding by.</hi> In apiſh imitation whereof the <hi>Rood</hi> (when perfectly made with all the appurtenances thereof) was attended with theſe two images.</p>
+                  <p>
+                     <hi>Item,</hi> For waſhing eleven <hi>Aubes</hi> and as many <hi>Head-clothes,</hi> ſix pence.] An <hi>Aube,</hi> or <hi>Albe,</hi> was a <hi>Prieſts garment</hi> of <hi>white linen</hi> down to their feet, girded about his middle. The <hi>thin matter</hi> denoted <hi>ſimplicity; colour, purity; length,</hi> (deep <note n="d" place="margin">Duranius de Ritibus Eccleſ <hi>num. 9. pag.</hi> 316.</note> Divinitie) <hi>perſeverance:</hi> and the <hi>cincture</hi> thereof ſignified the perſon wearing it prompt and prepared for <hi>Gods ſervice.</hi> Their head-clothes were like our <hi>Sergeants Coifes,</hi> but cloſe, and not turned up.</p>
+                  <p>
+                     <hi>Item,</hi> For watching the <hi>Sepulchre,</hi> eight pence.] Thus the price of that ſervice (but a groat in King <hi>Henries</hi> dayes) was doubled. However, though <hi>Popery</hi> was reſtored to its <hi>kinde,</hi> yet was it not re-eſtated in its <hi>former degree,</hi>
+                     <pb n="18" facs="tcp:204515:10"/> in the ſhort Reign of Queen <hi>Mary,</hi> for we finde no mention of the former ſix <hi>Obits</hi> anniverſarily performed, the lands for whoſe maintenance were alienated in the Reign of King <hi>Edward,</hi> and the Vicar of the Pariſh not ſo charitable as to celebrate theſe <hi>Obits</hi> gratis without any reward for the ſame.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Proceſsioner,</hi> and a <hi>Manual,</hi> twenty pence.</p>
+                  <p>
+                     <hi>Item,</hi> For a <hi>Corporas-cloth,</hi> twelve pence.] This was a linen cloth laid over or under the <hi>conſecrated Hoſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> To the Apparitor for the <hi>Biſhops Book</hi> of <hi>Articles</hi> at the <hi>Viſit<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ion,</hi> ſix pence.] This Biſhop was bloudy <hi>Bonner,</hi> that corpulent Tyrant, full (as one ſaid) of guts and empty of bowels; who viſited his Dicceſs before it was ſick, and made it ſick with his Viſitation. His Articles were in number thirty ſeven, and <hi>John</hi> 
+                     <note n="a" place="margin">
+                        <hi>Fox</hi> Acts &amp; Mon. pag. 1474.</note> 
+                     <hi>Bale</hi> wrote a book againſt them. The Biſhops chief care herein was the ſetting up of compleat <hi>Roods,</hi> commonly called (but when without his <hi>ear-reach) Bonners Block-almightie.</hi> If any refuſed to provide ſuch <hi>blocks</hi> for him, let them expect he would procure fagots for them.</p>
+               </div>
+               <div n="1556" type="year">
+                  <head>Anno 1556. Mariae tertio.</head>
+                  <p>
+                     <hi>Imprimis,</hi> For <hi>coles</hi> to undermine a piece of the Steeple which ſtood after the firſt fall, two ſhillings.] This Steeple formerly ſtood in the middle (now <hi>Eaſt</hi> end) of the Church; and, being ruined paſt poſſibilitie of repair, fell down of it ſelf, onely a remaining part was blown up by underminers. How quickly can a few deſtroy what required the age and induſtry of many in long time to raiſe and advance?</p>
+                  <p>It ſoundeth not a little to the praiſe of this Pariſh, that neither burthen<g ref="char:EOLhyphen"/>ſome nor beholding to the Vicinage for a collection, they re-built the Stee<g ref="char:EOLhyphen"/>ple at the <hi>Weſt</hi> end of the Church, on their own proper coſt, enabled there<g ref="char:EOLhyphen"/>unto, partly by their ſtock in the Church-box, ariſing from the ſale (as is aforeſaid) of the goods of the Brotherhood, and partly by the voluntary contribution of the Pariſhioners. This <hi>Tower-Steeple</hi> is eighty ſix foot high from the <hi>foundation</hi> to the <hi>battlements,</hi> each <note n="b" place="margin">The thirty three foot on the top (diffi<g ref="char:EOLhyphen"/>culty &amp; dan<g ref="char:EOLhyphen"/>ger of climb<g ref="char:EOLhyphen"/>ing made it the dearer) coſt fourty ſhillings a foot, as ap<g ref="char:EOLhyphen"/>peareth by the Church<g ref="char:EOLhyphen"/>wardens ac<g ref="char:EOLhyphen"/>counts, <hi>Anno</hi> 1563.</note> foot whereof (beſides the mate<g ref="char:EOLhyphen"/>rials preprovided) coſting thirty three ſhillings four pence the building. Three years paſſed from the founding to the finiſhing thereof (every years work diſcernable by the diſcolouration of the ſtones) and the Pariſh was forced, for the perfecting of the building, to ſell their Bells, hanging before in a wooden frame in the Church-yard; ſo that <hi>Waltham,</hi> which formerly had <hi>Steeple-leſs-Bells,</hi> now had for ſome years a <hi>Bell-leſs-Steeple.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The condition of the Church from the beginning of Queen <hi>ELIZABETH,</hi> to this day.</head>
+               <p>IN eleven full years, <hi>viz.</hi> from the laſt of King <hi>Henry</hi> the Eighth, <hi>Anno</hi> 1547. till the firſt of Queen <hi>Elizabeth,</hi> 1558. this Church found four changes in Religion; <hi>Papiſt,</hi> and <hi>Proteſtant; Papiſt,</hi> and <hi>Proteſtant</hi> again. The laſt turn will appear by the <hi>Wardens</hi> following accounts.</p>
+               <div n="1558" type="year">
+                  <pb n="19" facs="tcp:204515:10"/>
+                  <head>Anno 1558. Elizabethae's primo.</head>
+                  <p>
+                     <hi>Imprimis,</hi> For the taking down of the <hi>Rood-loft,</hi> three ſhillings two pence.] If then, there living and able, I hope I ſhould have lent an helping hand to ſo good a work, as now I beſtow my prayers, that the like may never in <hi>England</hi> be ſet up again.</p>
+                  <p>
+                     <hi>Item,</hi> Received for a ſuite of Veſtments, being of <hi>blew velvet,</hi> and another <hi>ſuite</hi> of <hi>Damask,</hi> and an <hi>Altar</hi>-cloth, four pound.</p>
+                  <p>
+                     <hi>Item,</hi> For three <hi>Corporaſſes,</hi> whereof two <hi>white ſilk,</hi> and one <hi>blew velvet,</hi> two pound thirteen ſhillings four pence.</p>
+                  <p>
+                     <hi>Item,</hi> For two ſuits of Veſtments, and an Altar-cloth, three pound.] Now was the ſuperſtitious Ward-robe diſperſed, and that (no doubt) ſold for ſhillings which coſt pounds. They were beheld as the <hi>garments ſpotted with ſin,</hi> and therefore the leſs pity to part with them. But ſee what followeth.</p>
+               </div>
+               <div n="1562" type="year">
+                  <head>Anno 1562. Elizabethae quinto.</head>
+                  <p>
+                     <hi>Item,</hi> For a cloth of <hi>Buckeram</hi> for the <hi>Communion-Table,</hi> and the making, four ſhillings.] Having ſold ſo much could they not afford a better Carpet? Is there no mean betwixt painting a face, and not waſhing it? He muſt have a fixt aim and ſtrong hand, who hits decency, and miſſeth gaudineſs and ſluttery, But there is a generation of people who over-do in the ſpirit of oppoſition: ſuch conceive that a <hi>treſſel</hi> is good enough for Gods Table, and ſuch a <hi>Table, Covering</hi> enough for it ſelf.</p>
+                  <p>
+                     <hi>Item,</hi> For <hi>Lattices</hi> for the <hi>Church-windows,</hi> fifteen ſhillings.] Fain would I for the credit of our <hi>Church</hi> by <hi>Lattices</hi> underſtand <hi>Caſements,</hi> if the word would bear it. Yet ſurely it was not for covetouſneſs wholly to ſpare gla<g ref="char:EOLhyphen"/>zing, but thrift to preſerve the glaſs, that theſe <hi>Lattices</hi> did fence them on the outſide.</p>
+                  <p>
+                     <hi>Item,</hi> Paid for a <hi>Bay Nagge</hi> given to M<hi rend="sup">r</hi> 
+                     <hi>Henry Denny</hi> for the <hi>Abby wall,</hi> three pound ſeventeen ſhillings.] This <hi>Nagge</hi> was rather a thankful acknow<g ref="char:EOLhyphen"/>ledgment of M<hi rend="sup">r</hi>. <hi>Denny</hi> his propriety, then a juſt valuation of what the <hi>Pa<g ref="char:EOLhyphen"/>riſh</hi> received from him, for it followeth.</p>
+                  <p>
+                     <hi>Item,</hi> To <hi>Labourers</hi> which did undermine the ſaid <hi>wall,</hi> fourty five ſhil<g ref="char:EOLhyphen"/>lings nine pence.] What then may the <hi>materials</hi> of that <hi>wall</hi> be preſumed worth in themſelves? I conceive this was a <hi>building</hi> which ranged <hi>Eaſt</hi> be<g ref="char:EOLhyphen"/>yond the old <hi>Steeple,</hi> the demoliſhing whereof brought much profit to the <hi>Pariſh,</hi> whoſe Wardens for ſome years drave a great trade in the ſale of <hi>Lead, Stone,</hi> and <hi>Timber,</hi> all devoured in the <hi>roofing, flooring,</hi> and <hi>finiſhing</hi> of their <hi>Steeple.</hi>
+                  </p>
+               </div>
+               <div n="1563" type="year">
+                  <head>Anno 1563. Eliz. 6<hi rend="sup">to</hi>.</head>
+                  <p>
+                     <hi>Imprimis,</hi> For an <hi>old houſe</hi> in the <hi>old Market-place,</hi> thirteen pound ſix ſhil<g ref="char:EOLhyphen"/>lings eight pence.] This <hi>Tenement</hi> low-rented yielded annually nine ſhillings. Now the <hi>Pariſh</hi> ſold it, (and another houſe in <hi>Weſt-ſtreet)</hi> outright, letting <hi>Leaſes</hi> alſo of their other <hi>Church-lands</hi> for twenty one years, ſuch bargains made a <hi>Feaſt</hi> for the <hi>preſent age,</hi> and a <hi>Famine</hi> for <hi>poſterity.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> For the <hi>old timber</hi> in the little <hi>Veſtiary</hi> of S<hi rend="sup">t</hi> 
+                     <hi>Georges Chappel,</hi> fifteen ſhillings.] In vain have I enquired for the ſcituation hereof, long ſince de<g ref="char:EOLhyphen"/>moliſhed, and no wonder if S<hi rend="sup">t</hi> 
+                     <hi>George his Chappel</hi> cannot be found, when St <hi>George</hi> himſelf is affirmed by <note n="c" place="margin">Ph<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ppus Melancthon in Apologia Ar<g ref="char:EOLhyphen"/>ticulo 21. con<g ref="char:EOLhyphen"/>feſſionis Augu<g ref="char:EOLhyphen"/>ſtana.</note> ſome as one never exiſtent, in <hi>rerum natura.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> Received of M<hi rend="sup">r</hi> 
+                     <hi>Denny</hi> for one <hi>Cope</hi> of <hi>Cloth</hi> of <hi>gold,</hi> three pound ſix ſhillings eight pence.</p>
+                  <pb n="20" facs="tcp:204515:11"/>
+                  <p>
+                     <hi>Item,</hi> For two <hi>Altar-Cloaths</hi> of <hi>Velvet</hi> and <hi>ſilk,</hi> two pound.] It ſeemeth the <hi>Pariſh</hi> did not part with all their gallantry at once, but made <hi>ſeveral ſtakes thereof,</hi> and parcelled them out as their neceſſities did require.</p>
+                  <p>
+                     <hi>Item,</hi> Received of M<hi rend="sup">r</hi> 
+                     <hi>Tamworth</hi> twenty <hi>loads</hi> of <hi>timber</hi> ready hewed, which he gave to the <hi>Pariſh.]</hi> This <hi>Gentleman</hi> by his bounty to the <hi>Publick</hi> ſeems bet<g ref="char:EOLhyphen"/>ter known to God then to me, having neither heard nor read of any of his name living in or near to <hi>Waltham.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> For taking down the <hi>ſtairs</hi> in the <hi>Abby,</hi> ſeven ſhillings eight pence.] This was part of the <hi>Nag-purchaſe,</hi> whereby we collect that a large ſtructure was by this bargain conveyed to the <hi>Pariſh.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> For taking down the Lead from the <hi>Charnel-houſe,</hi> and covering the <hi>Steeple,</hi> eighteen ſhillings.] The <hi>Steeple</hi> was conceived above the <hi>Charnel-houſe</hi> as in <hi>height</hi> ſo in <hi>honour.</hi> Wherefore now the Lead taken from it <hi rend="sup">b</hi> was <note place="margin">
+                        <hi rend="sup">a</hi> Which is now but tiled</note> tranſlated to the covering of the <hi>Steeple.</hi> Call this removing of this metal from one part of the Church to another, onely the borrowing of S<hi rend="sup">t</hi> 
+                     <hi>Peter</hi> to lend to S<hi rend="sup">t</hi> 
+                     <hi>Paul.</hi>
+                  </p>
+                  <p>
+                     <hi>Item,</hi> For the <hi>Arch-Deacons man</hi> coming for a <hi>Record</hi> of all the <hi>Inhabitants</hi> of the <hi>Pariſh,</hi> four pence.] I know not on what <hi>Canon</hi> this was founded. It may be <hi>her Majeſtie</hi> in thoſe dangerous times deſired (not out of <hi>Pride,</hi> but neceſſary <hi>Policy)</hi> to know the number of her <hi>Subjects,</hi> and might enjoyn the <hi>Arch-Deacons</hi> in their reſpective <hi>Viſitations,</hi> to make this inquiry.</p>
+                  <p>But <hi>Day</hi> begins to <hi>dawn,</hi> and the <hi>light</hi> of <hi>our Age</hi> to <hi>appear,</hi> matters coming <note place="margin">High time to knock off.</note> within the memory of many alive. We will therefore break off, <hi>Waltham</hi> ſince affording no peculiar obſervables. Onely will add that S<hi rend="sup">r</hi> 
+                     <hi>Edward (Grand-childe</hi> to S<hi rend="sup">r</hi> 
+                     <hi>Anthony) Denny,</hi> was <hi>created</hi> by King <hi>James,</hi> 
+                     <note n="a" place="margin">
+                        <hi>Camdens</hi> Brit. in Eſſex.</note> 
+                     <hi>Baron</hi> of <hi>Waltham,</hi> and ſince made by King <hi>Charles, Earl</hi> of <hi>Norwich.</hi> A Noble perſon, who ſetled on the <hi>Curate</hi> of <hi>Waltham</hi> (to whom before a <hi>bare Stipend</hi> of <hi>Eight pound</hi> did belong) <hi>one hundrod pound per annum,</hi> with ſome other conſiderable ac<g ref="char:EOLhyphen"/>commodations, tying good Land for the true performance thereof.</p>
+                  <p>The <hi>Abby</hi> is now the Inheritance of this <hi>Earls Grand-childe,</hi> by <hi>Honora</hi> his <note place="margin">
+                        <hi>James</hi> Earle of Carlile pre<g ref="char:EOLhyphen"/>ſent owner of Waltham. <hi>Nicholas</hi> the moſt eminent Abbot of Waltham.</note> daughter) <hi>James Hay Earl</hi> of <hi>Carlile,</hi> who Married <hi>Margaret, Daughter</hi> to <hi>Francis, Earl</hi> of <hi>Bedford,</hi> by whom as yet he hath no <hi>Iſſue,</hi> for the continu<g ref="char:EOLhyphen"/>ance of whoſe happineſs my prayers ſhall never be wanting.</p>
+                  <p>The Reader may juſtly expect from me a <hi>Catalogue</hi> of all the <hi>Abbots</hi> of this <hi>Monaſtery.</hi> But to do it <hi>falſly,</hi> I dare not; <hi>lamely,</hi> I would not; <hi>perfect<g ref="char:EOLhyphen"/>ly,</hi> I cannot; and therefore muſt crave to be excuſed. Onely let me obſerve, that <hi>Nicholas, Abbot</hi> of <hi>Waltham</hi> was moſt triumphant in power, of any in his place; he flouriſhed in the <hi>Reign</hi> of <hi>King Richard</hi> the <hi>ſecond,</hi> and was <note n="b" place="margin">Hen de Knighton de eventibus Angl. lib. <hi>v.</hi> pag 2687.</note> 
+                     <hi>one</hi> of the <hi>fourteen Commiſsioners,</hi> choſen by <hi>Parliament,</hi> to examine the miſcari<g ref="char:EOLhyphen"/>ages in that <hi>Kings Reign</hi> ſince the <hi>death</hi> of his <hi>Grand-father.</hi>
+                  </p>
+                  <p>Amongſt the <hi>Natives</hi> of <hi>Waltham</hi> for <hi>States-men, John de Waltham</hi> bears <note place="margin">John de Wal<g ref="char:EOLhyphen"/>tham.</note> away the <hi>bell.</hi> He was keeper of the <hi>Privy Seal</hi> in the Reign of <hi>King Richard</hi> 
+                     <note place="margin">
+                        <hi rend="sup">c</hi> Hen. Knigh<g ref="char:EOLhyphen"/>ton ut prius. pag. 2685. Roger Wal<g ref="char:EOLhyphen"/>tham <hi>a lear<g ref="char:EOLhyphen"/>ned writer.</hi>
+                     </note> the <hi>ſecond,</hi> being the <hi>third</hi> in number, choſen amongſt the <hi>fourteen Commiſ<g ref="char:EOLhyphen"/>ſioners</hi> aforeſaid, impowred to examine all <hi>miſdemeanours of State.</hi> And now was not <hi>Waltham</hi> highly honoured with more then a ſingle ſhare, when amongſt thoſe <hi>fourteen, two</hi> were her <hi>Gremials,</hi> the forenamed <hi>Nicholas</hi> living in <hi>Waltham,</hi> and this <hi>John,</hi> having his name thence, becauſe birth therein.</p>
+                  <p>But amongſt <hi>Scholars</hi> in our <hi>Town, Roger Waltham</hi> muſt not be forgotten, <hi>Canon</hi> of S<hi rend="sup">t</hi> 
+                     <hi>Pauls</hi> in <hi>London,</hi> and a great favourite to <hi>Fulk Baſſet, Biſhop</hi> there<g ref="char:EOLhyphen"/>of. He wrote many learned books, whereof two eſpecially (one called <note n="d" place="margin">Bale de ſcript. Brit. cent. 4 pag. 302. Hugh Nevil <hi>buried in</hi> Waltham.</note> 
+                     <hi>Compendium Morale,</hi> the other <hi>Imagines Oratorum)</hi> commend his parts and pains to poſterity.</p>
+                  <p>Paſs we from thoſe who were <hi>Born,</hi> to eminent perſons <hi>Buried</hi> therein. Here we firſt meet with <hi>Hugh Nevile,</hi> a <hi>Minion</hi> of <hi>King Richard</hi> the <hi>firſt,</hi> he was Interred in <hi>Waltham Church,</hi> ſaith my <note n="e" place="margin">Mat. Paris in Anno 122<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. page 315. and alſo <hi>Ro<g ref="char:EOLhyphen"/>bert Paſſe lew.</hi>
+                     </note> 
+                     <hi>Author, in Nobili Sarcophago Mar<g ref="char:EOLhyphen"/>moreo &amp; inſculpto, in a Noble Coffin of Marble engrav'd.</hi> If a <hi>Coffin</hi> be call'd <hi>Sarcophagus</hi> (from conſuming the <hi>Corps)</hi> ſurely <hi>Sacriledg</hi> may be named <hi>Sar<g ref="char:EOLhyphen"/>cophago-phagus,</hi>
+                     <pb n="21" facs="tcp:204515:11"/> which at this day hath devoured that <hi>Coffin,</hi> and all belong<g ref="char:EOLhyphen"/>ing thereunto.</p>
+                  <p>We ſpoil all, if we forget, <hi>Robert Paſſellew,</hi> who was <hi>Dominus fac totum,</hi> in the <hi>midle,</hi> and <hi>fac nihil,</hi> towards the <hi>end</hi> of the Reign of <hi>Henry</hi> the <hi>third.</hi> Some Paraſites extolled him by alluſion to his name; <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le-eau,</hi> (that is, <hi>paſsing the pure water)</hi> the <hi>Wits</hi> of thoſe dayes thus deſcanting upon him;</p>
+                  <lg>
+                     <l>
+                        <note n="f" place="margin">Collect. of Mr. Camb. M: S. in Sr. <hi>Tho. Cottons</hi> Libra<g ref="char:EOLhyphen"/>ry.</note> Eſt aqud lenis, &amp; est aqud dulcis, &amp; eſt aqua clara,</l>
+                     <l>Tu praecellis aquam, nam leni lenior es tu,</l>
+                     <l>Dulci dulcior es tu, clara clarior es tu,</l>
+                     <l>Mente quidem lenis, re dulcis, ſanguine clarus.</l>
+                  </lg>
+                  <p>But ſuch who <hi>flattered</hi> him the faſteſt, whileſt in <hi>favour,</hi> mocked him the moſt in <hi>miſery,</hi> and at laſt he died in his own <hi>Houſe</hi> in <hi>Waltham,</hi> and was <note n="g" place="margin">Matt. <hi>Paris</hi> Anno. 1252. A heap of difficulties caſt together.</note> bu<g ref="char:EOLhyphen"/>ried in the <hi>Abby-Church</hi> therein.</p>
+                  <p>And now becauſe we have ſo often cited <hi>Matthew Paris,</hi> I never met with more difficulties in ſix lines, then what I finde in him; which becauſe nearly relating to this preſent ſubject, I thought fit to exemplifie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <q>
+                     <bibl>MATTHEW PARIS in <hi>Anno</hi> 1242. p. 595.</bibl>
+                     <p>Eodem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Anno, videlicet in craſtino <hi>S<hi rend="sup">ti</hi>
+                        </hi> Michaelis dedicata eſt Eccleſia con<g ref="char:EOLhyphen"/>ventualis Canonicorum de <hi>Waltham,</hi> ab Epiſcopo Norwicenſi Willielmo, ſolem<g ref="char:EOLhyphen"/>niter valde, aſistentibus aliis plurimis Epiſcopis, Praelatis, &amp; Magnatibus ve<g ref="char:EOLhyphen"/>nerabilibus, ſtatim post dedicationem Eccleſiae ſancti Pauli Londinenſis, ut peregrinantes hinc inde, indiſtanter re<g ref="char:EOLhyphen"/>mearent.</p>
+                     <p>And in the ſame year, namely the morrow after S<hi rend="sup">t</hi> Michaels day, the conventual Church of the Canons at <hi>Waltham,</hi> was dedicated by Wil<g ref="char:EOLhyphen"/>liam, Biſhop of Norwich very ſo<g ref="char:EOLhyphen"/>lemnly, many other Biſhops, Pre<g ref="char:EOLhyphen"/>lates, and venerable Peers aſſiſting him: preſently after the dedication of S<hi rend="sup">t</hi> 
+                        <hi>Pauls</hi> in <hi>London,</hi> that Pilgrims and Travellers up and down might indiſtantly return.</p>
+                  </q>
+                  <p>It is clear our <hi>Church</hi> of <hi>Waltham Abby</hi> is intended herein, <note n="a" place="margin">See <hi>Speed</hi> his Catalogue of religious houſes. Queries on queries.</note> 
+                     <hi>England</hi> affording no other <hi>Conventual Church.</hi>
+                  </p>
+                  <p>This being granted, how comes <hi>Waltham Church</hi> (built by <hi>Harold</hi> two hundred years before) now to be firſt Dedicated, that <hi>Age</hi> accounting it as faulty and fatal, to defer the <hi>Conſecration of Churches,</hi> as the <hi>Chriſtning of Chil<g ref="char:EOLhyphen"/>dren?</hi> 2. What made the <hi>Biſhop</hi> of <hi>Norwich</hi> to meddle therewith? an <hi>Office</hi> more proper for the <hi>Biſhop</hi> of <hi>London</hi> to perform, <hi>Waltham</hi> being (though not under) in his juriſdiction. 3. What is meant by the <hi>Barbarous word indi<g ref="char:EOLhyphen"/>ſtanter?</hi> and what benefit accrewed to <hi>Travellers</hi> thereby? I will not ſo much as conjecture, as unwilling to <hi>draw my bow,</hi> where <hi>I deſpair to hit the mark,</hi> but leave all to the <hi>judgment</hi> of others. But I grow tedious, and will therefore conclude.</p>
+                  <p>
+                     <hi>Anno 1641. King</hi> CHARLES came the laſt time to <hi>Waltham,</hi> and went <note place="margin">R. <hi>Charls</hi> his laſt coming to <hi>Waltham.</hi>
+                     </note> (as he was wont, where any thing remarkable) to ſee the Church, the <hi>Earl</hi> of <hi>Carlile</hi> attending him; His Majeſtie told him, that he divided his <hi>Cathe<g ref="char:EOLhyphen"/>dral Churches,</hi> as he did his <hi>Royal Ships,</hi> into <hi>three ranks,</hi> accounting S<hi rend="sup">t</hi> 
+                     <hi>Pauls</hi> in <hi>London, York, Lincoln, Winchester,</hi> &amp;c. of the <hi>first form; Chicheſter Lichfield,</hi> &amp;c. of the <hi>ſecond;</hi> the <hi>Welch Cathedrals</hi> of the <hi>third,</hi> with which <hi>Waltham Church</hi> may be well compared, eſpecially if the <hi>Roof</hi> thereof, was taken <hi>lower</hi> and Leaded.</p>
+                  <p>The Earl moved His Majeſtie, that ſeeing this <hi>Ancient Church,</hi> (Founded <note place="margin">Conditionally granteth the repairing of the Church.</note> by <hi>King Harold</hi> his Predeceſſor) was fallen into ſuch decay, that the repair
+<pb n="22" facs="tcp:204515:12"/> was too heavy for the <hi>Pariſh,</hi> he would be pleaſed to grant a <hi>moderate Tole</hi> of <hi>Cattle</hi> coming over the <hi>Bridg,</hi> (with their great <hi>Driftss,</hi> doing much da<g ref="char:EOLhyphen"/>mage to the High-wayes) and therewith both the <hi>Town</hi> might be <hi>Paved,</hi> and the <hi>Church repaired.</hi> The <hi>King</hi> graciouſly granted it, provided, it were done with the privity and conſent of a great <hi>Prelate,</hi> (not ſo ſafe to be named as ea<g ref="char:EOLhyphen"/>ſie to be gueſſed) with whom he conſulted in all <hi>Church-matters.</hi>
+                  </p>
+                  <p>But when the <hi>foreſaid Prelate</hi> was <hi>informed,</hi> that the <hi>Earl</hi> had <hi>applied</hi> to <note place="margin">But it miſcar<g ref="char:EOLhyphen"/>rieth.</note> His <hi>Majeſtie</hi> before <hi>addreſſes</hi> to <hi>himſelf,</hi> he daſhed the deſign, ſo that poor <hi>Waltham Church,</hi> muſt ſtill be contented, with their <hi>weak walls,</hi> and <hi>worſe Roof,</hi> till <hi>Providence,</hi> procure her ſome better <hi>Benefactors.</hi> As for the <hi>Armes</hi> of <hi>Wal<g ref="char:EOLhyphen"/>tham Abby,</hi> being loath to ſet them alone, I have joyned them in the follow<g ref="char:EOLhyphen"/>ing draught, with the <hi>Armes</hi> of the other <hi>Mitred Abbies,</hi> as far as my indu<g ref="char:EOLhyphen"/>ſtry could recover them.</p>
+               </div>
+            </div>
+            <closer>SOLI DEO GLORIA.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustrations">
+            <pb facs="tcp:204515:12"/>
+            <p>
+               <figure>
+                  <head>THE SEALES OF ARMES OF ALL THE MITRED ABBEYS IN ENGLAND<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <p>Edwino Rich <hi>Armigèro uni è Magistres</hi> Curiae Cancellariae, <hi>Benefactori meo munifico, in gratitu<g ref="char:EOLhyphen"/>dinis tesseram. J. F.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Taveſtock.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Glaſtenbury</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Midleton.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Abington.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ames Reading</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Battaile.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>.Auguſtin Cant:</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Gloceſter.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Colcheſter.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Winch-combe.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>.Albans.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>.Iohns of Ieruſalem.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Weſtminſter.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Waltham.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Waltham</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>.Edmondebury</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Thorney</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Ben<g ref="char:cmbAbbrStroke">̄</g>etts in y<hi rend="sup">e</hi> Holme.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Ramley</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Peterborrough.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Crowland.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Tewke<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s;bury.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Shroeſbury</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Selby.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>S<hi rend="sup">t</hi>. Maryes yorke.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Malmſbury</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Cirenceſter</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <head>Bardney</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <p>Booke 2. page. 123.</p>
+                     <head>Iames Langham Bjq:</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <p>Booke 2 p.138</p>
+                     <head>Baldwine Hamey D<hi rend="sup">r</hi>. of Phiſick.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>blank seal</figDesc>
+                     <p>B:4.pa:177</p>
+                     <head>Thomas Rich Esq<hi rend="sup">r</hi>.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>blank seal</figDesc>
+                     <p>B:11. pa:197.</p>
+                     <head>Giles Vandeput Nerehadt.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <p>Ibidem.</p>
+                     <head>Edward Clegar Merchant.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <p>Hiſt:of Cam: pa: 117.</p>
+                     <head>Edward Palmer Esq<hi rend="sup">r</hi>.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>seal</figDesc>
+                     <p>Hist: of Camb: pa: 137</p>
+                     <head>Fra: Ask Esq<hi rend="sup">r</hi>.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>blank seal</figDesc>
+                  </figure>
+                  <p>Know reader the Cutter in wood being sick, and the Preſſ not sta<g ref="char:EOLhyphen"/>ing his recovery; the armes of my Patrons omitted in y<hi rend="sup">e</hi> body of y<hi rend="sup">e</hi> booke are ſupplied in theſe quarters.</p>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
